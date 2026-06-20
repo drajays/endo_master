@@ -1,0 +1,53 @@
+{
+  "id": "e21-06",
+  "volume": 2021,
+  "chapterNo": "6",
+  "title": "Complexities in the Diagnosis and Treatment of Cushing Syndrome",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Ashley B. Grossman, BA BSc, MD, PhD (Hon.causa), FRCP, FMedSci.",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_06_Complexities_in_the_Diagnosis_and_Treatment_of_Cushing_Syndrome.md",
+  "items": [
+    {
+      "id": "e21-06-q1",
+      "type": "mcq",
+      "subtopic": "Diagnosis of Cushing Syndrome",
+      "question": "A 26-year-old man with a history suggestive of Cushing syndrome has very high levels of both cortisol and ACTH. CT chest shows left lower collapse/consolidation. Which investigation should be performed next?",
+      "options": [
+        "A. Low-dose dexamethasone-suppression test",
+        "B. Corticotropin-releasing hormone test",
+        "C. Bilateral inferior petrosal sinus sampling",
+        "D. Bronchoscopy",
+        "E. 68Ga-DOTATATE PET scanning"
+      ],
+      "correctOption": 3,
+      "explanation": "Given the high levels of cortisol and ACTH, along with evidence of a lung abnormality on CT scan, bronchoscopy is the most appropriate next step to investigate for a possible bronchial tumor.",
+      "reference": "Case 1: 'Bronchoscopy demonstrates a combined bacterial, fungal, and cytomegalovirus infection. ... Bronchoscopy (Answer D) to look for a bronchial tumor is the most useful and expeditious investigation at this stage.'"
+    },
+    {
+      "id": "e21-06-why1",
+      "type": "why",
+      "subtopic": "Biochemical Assessment in Cushing Syndrome",
+      "question": "Why is biochemical assessment paramount over imaging in diagnosing Cushing syndrome?",
+      "answer": "Because biochemical tests help determine the presence of autonomous cortisol production and differentiate between ACTH-dependent and independent sources, which are crucial for accurate diagnosis.",
+      "keyPoints": [
+        "Biochemical tests range from high sensitivity to increasing specificity.",
+        "Determining whether the disorder is ACTH-dependent or not is essential.",
+        "Imaging supports but does not replace biochemical assessment."
+      ],
+      "reference": "MAIN CONCLUSIONS: '...biochemical assessment is paramount. ... The optimal approach is to (1) use a series of biochemical tests, ranging from those with high sensitivity to those with increasing specificity, (2) determine whether the disorder is ACTH-dependent, and (3) when appropriate, locate the source of ACTH.'"
+    },
+    {
+      "id": "e21-06-how2",
+      "type": "how",
+      "subtopic": "Management of Cushing Syndrome",
+      "question": "How should severe cases of Cushing syndrome be managed initially?",
+      "answer": "Severe cases require urgent management of metabolic abnormalities, including lowering serum cortisol levels to safe concentrations, often through medical therapy.",
+      "keyPoints": [
+        "Metabolic abnormalities must be addressed urgently in severe cases.",
+        "Serum cortisol levels should be reduced to normal safe concentrations.",
+        "Surgery is the most appropriate long-term management when feasible."
+      ],
+      "reference": "MAIN CONCLUSIONS: '...in severe cases, the metabolic abnormalities should be dealt with as a matter of urgency. If necessary, serum cortisol levels should be lowered to normal safe concentrations.'"
+    }
+  ]
+}

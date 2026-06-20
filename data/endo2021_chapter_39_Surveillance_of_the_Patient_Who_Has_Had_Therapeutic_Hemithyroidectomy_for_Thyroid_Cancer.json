@@ -1,0 +1,22 @@
+{
+  "id": "e21-39",
+  "type": "mcq",
+  "subtopic": "Hemithyroidectomy for Well-Differentiated Thyroid Cancer",
+  "question": "A 45-year-old woman with a history of well-differentiated thyroid cancer undergoes hemithyroidectomy. Postoperatively, her thyroglobulin level is elevated to 100 ng/mL (SI: 100 μg/L). What is the most appropriate next step?",
+  "options": [
+    "<Option A> Repeat ultrasonography of the remaining thyroid lobe",
+    "<Option B> Initiate levothyroxine therapy with a goal TSH level of <0.1 mIU/L",
+    "<Option C> Perform FNA on the elevated nodule in the remaining thyroid lobe",
+    "<Option D> Start chest CT to evaluate for metastatic disease"
+  ],
+  "correctOption": 2,
+  "explanation": "Given that thyroglobulin levels are elevated, it is important to first determine whether this indicates recurrence or simply a rise due to normal thyroid tissue. An FNA of the remaining nodule can help differentiate between these possibilities and guide further management.",
+  "reference": "MAIN CONCLUSIONS: Thyroid hormone therapy is often required postoperatively to achieve goal TSH levels, but initiating levothyroxine with a goal <0.1 mIU/L is recommended if thyroglobulin remains elevated.",
+  "volume": 2021,
+  "chapterNo": "39",
+  "title": "Surveillance of the Patient Who Has Had Therapeutic Hemithyroidectomy for Thyroid Cancer",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_39_Surveillance_of_the_Patient_Who_Has_Had_Therapeutic_Hemithyroidectomy_for_Thyroid_Cancer.md",
+  "items": []
+}

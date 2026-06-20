@@ -1,0 +1,50 @@
+{
+  "id": "e21-04",
+  "volume": 2021,
+  "chapterNo": "4",
+  "title": "What an Endocrinologist Should Know About the Surgical Treatment of Obesity",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_04_What_an_Endocrinologist_Should_Know_About_the_Surgical_Treatment_of_Obesity.md",
+  "items": [
+    {
+      "id": "e21-04-q1",
+      "type": "mcq",
+      "subtopic": "Mechanical Complications of Bariatric Surgery",
+      "question": "A 42-year-old man who had RYGB in Mexico presents with progressive nausea, vomiting, and confusion. What is the most likely cause?",
+      "options": [
+        "Vitamin B₁₂ deficiency",
+        "Vitamin A deficiency",
+        "Thiamine (Vitamin B₅) deficiency",
+        "Copper deficiency"
+      ],
+      "correctOption": 2,
+      "explanation": "The patient is presenting with signs of Wernicke encephalopathy, which is caused by acute thiamine (vitamin B₁₂ precursor) deficiency. This condition can occur in patients who have undergone bariatric surgery and are not receiving adequate dietary supplementation.",
+      "reference": "MAIN CONCLUSIONS: 'This presentation is typical for Wernicke encephalopathy from acute thiamine deficiency (Answer C).'"
+    },
+    {
+      "id": "e21-04-why1",
+      "type": "why",
+      "subtopic": "Mechanical Complications of Bariatric Surgery",
+      "question": "Why might a patient develop anastomotic leaks after RYGB?",
+      "answer": "Because the surgical procedure involves creating new anatomical structures that can fail over time, leading to complications such as leaks.",
+      "keyPoints": [
+        "The RYGB procedure creates new connections between different parts of the gastrointestinal tract.",
+        "These connections are not permanent and can weaken or break down over time."
+      ],
+      "reference": "MAIN CONCLUSIONS: 'Mechanical complications such as anastomotic leaks, strictures, and marginal ulcers may present to the endocrinologist.'"
+    },
+    {
+      "id": "e21-04-how2",
+      "type": "how",
+      "subtopic": "Postoperative Monitoring of Patients with Bariatric Surgery",
+      "question": "How should an endocrinologist monitor a patient who has had RYGB for nutritional/vitamin deficiencies?",
+      "answer": "The endocrinologist should order routine blood tests to check for deficiencies in vitamins and minerals, such as vitamin B₁₂, D, A, K; iron; copper; zinc; PTH; and bone health markers like bone densitometry.",
+      "keyPoints": [
+        "Routine monitoring is necessary due to the risk of long-term complications from nutritional deficiencies.",
+        "Patients should be advised to avoid certain medications that can increase surgical risks."
+      ],
+      "reference": "MAIN CONCLUSIONS: 'Postoperative monitoring of vitamins B₁₂, D, A, K; iron; copper; zinc; PTH; and other measures of bone health including bone densitometry can help prevent long-term complications.'"
+    }
+  ]
+}

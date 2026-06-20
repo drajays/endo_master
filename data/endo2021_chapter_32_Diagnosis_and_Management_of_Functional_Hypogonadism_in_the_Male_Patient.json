@@ -1,0 +1,17 @@
+{
+  "The patient's most likely diagnosis is A: Relative Energy Deficit in Sport (RED-S). This condition can affect men who engage in intense training programs, leading to a relative imbalance between their caloric intake and expenditure. The symptoms include fatigue, declining performance, weight loss, low libido, and hypogonadism.": {
+    "rationale": {
+      "relative_energy_deficit_in_sport_diagnosis": "The patient's history of stepping up his training program while dieting to lose weight is consistent with RED-S. His BMI is within the normal range but lower than expected for an athlete, indicating a relative energy deficit. The elevated serum SHBG concentration and mild anemia are also typical findings in this condition.",
+      "pituitary_adenoma_diagnosis": "While his physical examination did not reveal any signs of a pituitary mass effect, the patient's history is consistent with RED-S rather than a pituitary adenoma. Pituitary imaging should be considered as a diagnosis of exclusion.",
+      "hemochromatosis_diagnosis": "The patient’s iron studies are normal and do not suggest hemochromatosis."
+    }
+  },
+  "id": "e21-32",
+  "volume": 2021,
+  "chapterNo": "32",
+  "title": "Diagnosis and Management of Functional Hypogonadism in the Male Patient",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_32_Diagnosis_and_Management_of_Functional_Hypogonadism_in_the_Male_Patient.md",
+  "items": []
+}

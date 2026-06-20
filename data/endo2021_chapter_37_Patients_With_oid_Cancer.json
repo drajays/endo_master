@@ -1,0 +1,22 @@
+{
+  "id": "e21-37",
+  "type": "mcq",
+  "subtopic": "Early Diagnosis and Follow-Up of MTC",
+  "question": "For a patient with a right thyroid nodule, what is the best next step if serum calcitonin concentration is greater than 20 pg/mL but less than 100 pg/mL (5.8-29.2 pmol/L)?",
+  "options": [
+    "<Option A> Wait and see; perform clinical and biochemical examination every 6 months",
+    "<Option B> Total thyroidectomy with central neck dissection",
+    "<Option C> Lobectomy for diagnostic purpose",
+    "<Option D> Repeated FNA for immunocytochemistry for calcitonin and measurement of calcitonin in the needle washout"
+  ],
+  "correctOption": 3,
+  "explanation": "In cases where serum calcitonin is greater than 20 pg/mL but less than 100 pg/mL, it should prompt further diagnostic procedures. A calcium-stimulation test can be performed to confirm if the calcitonin is secreted by MTC.",
+  "reference": "MAIN CONCLUSIONS: \"The fact that a significant advantage in prolonging the progression-free survival time has been demonstrated by both drugs, so far neither shown an increase in overall survival.\"",
+  "volume": 2021,
+  "chapterNo": "37",
+  "title": "Patients With oid Cancer",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_37_Patients_With_oid_Cancer.md",
+  "items": []
+}

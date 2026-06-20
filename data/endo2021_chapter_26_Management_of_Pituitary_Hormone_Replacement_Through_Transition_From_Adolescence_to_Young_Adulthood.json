@@ -1,0 +1,22 @@
+{
+  "id": "e21-26",
+  "type": "mcq",
+  "subtopic": "Hypopituitarism Management at Transition",
+  "question": "For a patient with hypopituitarism, which hormone is most likely to be deficient and require replacement therapy?",
+  "options": [
+    "Growth Hormone (GH)",
+    "Thyroid-Stimulating Hormone (TSH)",
+    "Prolactin (PRL)",
+    "Adrenocorticotropic Hormone (ACTH)"
+  ],
+  "correctOption": 0,
+  "explanation": "In hypopituitarism, the anterior pituitary gland is often underdeveloped or absent. This leads to deficiencies in hormones such as Growth Hormone (GH), which is crucial for growth and development. The other hormones like TSH, PRL, and ACTH are typically produced by the posterior pituitary, but their deficiency can be masked if there is no anterior pituitary gland.",
+  "reference": "MAIN CONCLUSIONS: 'The need for a holistic, multidisciplinary approach is never greater than at puberty. Significant input is required from the clinician and the clinical nurse specialist/nurse practitioner. Challenges around adherence, optimal dosage, behavior, psychology, and emerging independence from parents should be tackled with the help of a range of multidisciplinary professionals.'",
+  "volume": 2021,
+  "chapterNo": "26",
+  "title": "Management of Pituitary Hormone Replacement Through Transition From Adolescence to Young Adulthood",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_26_Management_of_Pituitary_Hormone_Replacement_Through_Transition_From_Adolescence_to_Young_Adulthood.md",
+  "items": []
+}

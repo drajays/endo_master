@@ -1,0 +1,22 @@
+{
+  "id": "e21-18",
+  "type": "mcq",
+  "subtopic": "GCK-MODY management during pregnancy",
+  "question": "In pregnancies affected by GCK-MODY, which of the following is the best approach for initiating insulin therapy?",
+  "options": [
+    "Early initiation of insulin therapy will reduce fetal macrosomia and has not been associated with adverse effects",
+    "Initiation of insulin therapy should be based on second-trimester maternal glycemia",
+    "Initiation of insulin therapy should be based on second-trimester fetal growth",
+    "Fetal genotype should be assessed by amniocentesis or chorionic villus sampling to guide decisions on insulin therapy"
+  ],
+  "correctOption": 3,
+  "explanation": "In pregnancies affected by GCK-MODY, the risk of fetal macrosomia is based on whether the fetus inherits the heterozygous GCK pathogenic variant from the mother. If the fetus carries a heterozygous GCK pathogenic variant, it will sense mother's mildly elevated blood glucose levels as normal and grow normally. If the fetus does not carry the heterozygous GCK pathogenic variant, it is at risk for macrosomia.",
+  "reference": "\"Genetic diagnosis of certain forms of monogenic diabetes is clinically actionable, allowing therapy selection based on the genetic cause. Permanent neonatal diabetes owing to pathogenic variants in KCNJ11 or ABCC8, the genes encoding the ATP-sensitive potassium channel in the β cell, respond to high-dosage sulfonylureas with excellent glycemic control and improvement in neurologic outcomes. Those with transient neonatal diabetes often have relapse of diabetes in adolescence or early adulthood. Relapse of transient neonatal diabetes due to 6q24 abnormalities can be treated with low doses of sulfonylureas.\"",
+  "volume": 2021,
+  "chapterNo": "18",
+  "title": "Practical Approaches to the Genetic Diagnosis and Management of Patients With Diabetes Mellitus",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_18_Practical_Approaches_to_the_Genetic_Diagnosis_and_Management_of_Patients_With_Diabetes_Mellitus.md",
+  "items": []
+}

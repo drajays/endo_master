@@ -1,0 +1,22 @@
+{
+  "id": "e21-34",
+  "type": "mcq",
+  "subtopic": "Menopause Symptoms and Management",
+  "question": "A 60-year-old postmenopausal woman with a history of heavy bleeding is considering hormone replacement therapy (HRT). Which option would be most appropriate for her?",
+  "options": [
+    "<Option A> Combined oral contraceptive pill (COC)",
+    "<Option B> Copper intrauterine device (IUD)",
+    "<Option C> Progestin intrauterine system (IUS)",
+    "<Option D> Vaginal contraceptive ring"
+  ],
+  "correctOption": 2,
+  "explanation": "A progestin intrauterine system (IUS) is the most appropriate choice for a postmenopausal woman with heavy bleeding due to perimenopausal ovulatory dysfunction. It provides contraception and reduces the risk of endometrial neoplasia.",
+  "reference": "Women's Health Initiative Memory Study found an increased incidence of dementia in women older than 65 years initiating HT.",
+  "volume": 2021,
+  "chapterNo": "34",
+  "title": "Management of Hormone Replacement Therapy in PostReproductiveAged Women",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_34_Management_of_Hormone_Replacement_Therapy_in_PostReproductiveAged_Women.md",
+  "items": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e21-27",
+  "type": "mcq",
+  "subtopic": "Pediatric Bone Fragility Evaluation",
+  "question": "For a 14-year-old girl with primary amenorrhea and stress fracture of the right foot, which evaluation is most appropriate?",
+  "options": [
+    "A. DXA of spine and hip",
+    "B. DXA of whole body and spine",
+    "C. Prolactin, LH, FSH, estradiol, and 25-hydroxyvitamin D measurements and celiac screen",
+    "D. Lateral spine x-ray",
+    "E. Serum pregnancy test"
+  ],
+  "correctOption": 3,
+  "explanation": "The patient is a young girl with primary amenorrhea who has sustained a stress fracture of the right foot. Given her age, the most appropriate initial evaluation would be to assess for underlying causes such as hypogonadism and vitamin D deficiency, which can lead to bone fragility. A lateral spine x-ray (Answer D) is recommended because it can help identify vertebral fractures, which are concerning in a young patient with multiple fractures.",
+  "reference": "MAIN CONCLUSIONS: The armamentarium to treat pediatric osteoporosis is still limited.",
+  "volume": 2021,
+  "chapterNo": "27",
+  "title": "When to Worry and What to Do",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_27_When_to_Worry_and_What_to_Do.md",
+  "items": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e21-24",
+  "type": "mcq",
+  "subtopic": "Dopamine Agonists: Risks, Adverse Effects, Surveillance, and Intervention",
+  "question": "Which patient is most likely concerned about hypersexuality as an adverse effect of cabergoline?",
+  "options": [
+    "Difficulty urinating",
+    "Hypersexuality",
+    "Sleep apnea",
+    "Restless legs"
+  ],
+  "correctOption": 1,
+  "explanation": "The correct answer is Hypersexuality. The vignette states that the patient's wife is most likely concerned about hypersexuality as an adverse effect of cabergoline.",
+  "reference": "\"Hypersexuality\" can be seen in up to 20% of patients taking dopamine agonists like cabergoline, such as with cabergoline.",
+  "volume": 2021,
+  "chapterNo": "24",
+  "title": "Risks Adverse Effects Surveillance and Intervention",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_24_Risks_Adverse_Effects_Surveillance_and_Intervention.md",
+  "items": []
+}

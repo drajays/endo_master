@@ -1,0 +1,52 @@
+{
+  "id": "e21-02",
+  "volume": 2021,
+  "chapterNo": "2",
+  "title": "Challenging Cases in Nutritional and Medical Treatment of Obesity",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Michael D. Jensen, MD",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_02_Challenging_Cases_in_Nutritional_and_Medical_Treatment_of_Obesity.md",
+  "items": [
+    {
+      "id": "e21-02-q1",
+      "type": "mcq",
+      "subtopic": "Medication and Weight Gain",
+      "question": "A 34-year-old woman is referred for evaluation of possible Cushing syndrome due to weight gain, hypertriglyceridemia, and worsening acne. Which medications should be considered changing to assess their contribution to her weight gain?",
+      "options": [
+        "A. Tricyclic antidepressant amitriptyline",
+        "B. Depot medroxyprogesterone",
+        "C. Tylenol PM",
+        "D. None of the above"
+      ],
+      "correctOption": 0,
+      "explanation": "Iatrogenic weight gain is common with certain medications, including tricyclic antidepressants like amitriptyline, depot medroxyprogesterone, and antihistamines such as diphenhydramine in Tylenol PM. These can contribute to increased appetite or fat gain.",
+      "reference": "MAIN CONCLUSIONS: \"Iatrogenic weight gain is not uncommon. Most endocrinologists are familiar with the weight gain potential of several medications, including tricyclic antidepressant amitriptyline and depot medroxyprogesterone.\""
+    },
+    {
+      "id": "e21-02-why1",
+      "type": "why",
+      "subtopic": "Self-Monitoring in Weight Loss",
+      "question": "Why is self-monitoring considered the most strongly associated cognitive behavioral technique with long-term, successful weight-loss maintenance?",
+      "answer": "Because it increases awareness of eating behaviors and helps identify patterns that can be modified to reduce energy intake.",
+      "keyPoints": [
+        "Self-monitoring makes patients more aware of their food intake.",
+        "It helps in identifying and modifying eating behavior patterns.",
+        "Real-time monitoring is necessary due to the inaccuracy of dietary recall."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"The cognitive behavioral technique most strongly associated with long-term, successful weight-loss maintenance is self-monitoring.\""
+    },
+    {
+      "id": "e21-02-how2",
+      "type": "how",
+      "subtopic": "Estimating Daily Energy Expenditure",
+      "question": "How can providers help patients avoid overly restrictive diets and promote sustainable lifestyle changes?",
+      "answer": "By estimating a patient's daily energy expenditure, providers can recommend more moderate and sustainable eating habits.",
+      "keyPoints": [
+        "Providers estimate daily energy expenditure to suggest realistic dietary changes.",
+        "Understanding components of energy expenditure helps in avoiding futile diet attempts.",
+        "Moderate approaches are more likely to be sustainable."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Providers who can make a reasonable estimate of a patient's daily energy expenditure can recommend more sustainable changes in eating habits.\""
+    }
+  ]
+}

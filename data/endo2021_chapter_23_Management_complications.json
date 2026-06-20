@@ -1,0 +1,22 @@
+{
+  "id": "e21-23",
+  "type": "mcq",
+  "subtopic": "Management of complications in acromegaly",
+  "question": "Which complication is most likely to improve with biochemical control of GH and IGF-1 levels?",
+  "options": [
+    "A. Diabetes mellitus",
+    "B. Arthropathy",
+    "C. Vertebral fractures",
+    "D. Sleep apnea"
+  ],
+  "correctOption": 0,
+  "explanation": "Biochemical control of acromegaly reduces the severity or prevalence of most complications, including diabetes (Answer A). While arthropathy (Answer B) and vertebral fractures (Answer C) may improve with biochemical control, sleep apnea (Answer D) often persists despite biochemical control.",
+  "reference": "\"Complications of surgery generally occur early, whereas those associated with radiation therapy (hypopituitarism, second malignancies, vascular disease) usually take a number of years to be realized.\"",
+  "volume": 2021,
+  "chapterNo": "23",
+  "title": "Management complications",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_23_Management_complications.md",
+  "items": []
+}

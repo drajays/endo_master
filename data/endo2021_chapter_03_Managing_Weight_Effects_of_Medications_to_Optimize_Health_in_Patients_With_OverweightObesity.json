@@ -1,0 +1,50 @@
+{
+  "id": "e21-03",
+  "volume": 2021,
+  "chapterNo": "3",
+  "title": "Managing Weight Effects of Medications to Optimize Health in Patients With Overweight/Obesity",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Andrea D. Coviello, MD, MSc, MMCi, FACE",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_03_Managing_Weight_Effects_of_Medications_to_Optimize_Health_in_Patients_With_OverweightObesity.md",
+  "items": [
+    {
+      "id": "e21-03-q1",
+      "type": "mcq",
+      "subtopic": "Diabetes Medications and Weight Management",
+      "question": "Which of the following medications should be started as the best next step to promote weight loss?",
+      "options": [
+        "A. Sitagliptin",
+        "B. Pioglitazone",
+        "C. Semaglutide",
+        "D. Empagliflozin"
+      ],
+      "correctOption": 2,
+      "explanation": "Semaglutide is a GLP-1 receptor agonist associated with significant weight loss and improved glycemic control, making it the best choice for promoting weight loss in patients with type 2 diabetes.",
+      "reference": "MAIN CONCLUSIONS: \"Newer classes of medications for type 2 diabetes have been developed that are not only weight neutral but also promote weight loss such as GLP-1 receptor agonists and SGLT-2 inhibitors.\""
+    },
+    {
+      "id": "e21-03-why1",
+      "type": "why",
+      "subtopic": "Impact of Medications on Weight Gain",
+      "question": "Why is it important to review a patient's medication list for weight-promoting drugs?",
+      "answer": "Because many commonly used medications promote weight gain, and long-term use can lead to overweight or obesity, which are associated with numerous chronic diseases.",
+      "keyPoints": [
+        "Many medications promote weight gain over long periods.",
+        "Weight gain is linked to conditions like type 2 diabetes, cardiovascular disease, and nonalcoholic fatty liver disease."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Many commonly used medications promote weight gain and their use over long periods is associated with overweight and obesity...\""
+    },
+    {
+      "id": "e21-03-how2",
+      "type": "how",
+      "subtopic": "Mitigating Medication-Induced Weight Gain",
+      "question": "How can clinicians mitigate the weight-promoting effects of medications?",
+      "answer": "By scanning medication lists for weight-promoting drugs and substituting them with weight-neutral or weight-loss-promoting alternatives when feasible.",
+      "keyPoints": [
+        "Identify weight-promoting medications in a patient's regimen.",
+        "Substitute these medications with alternatives that are weight neutral or promote weight loss."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"A prudent approach is to scan medication lists for weight-promoting drugs and substitute weight-neutral or weight loss-promoting medications when feasible.\""
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "e21-16",
+  "volume": 2021,
+  "chapterNo": "16",
+  "title": "Paget Disease of Bone: Diagnosis, Management, and Clinical Cases",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Thomas J. Weber, MD",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_16_Modern_Manager_Patient_With_Pac.md",
+  "items": [
+    {
+      "id": "e21-16-q1",
+      "type": "mcq",
+      "subtopic": "Diagnosis and Management of PDB",
+      "question": "On the basis of this patient's clinical presentation, which of the following is the best next step in his management?",
+      "options": [
+        "A. Zoledronic acid, 5 mg intravenously",
+        "B. Alendronate, 40 mg daily for 6 months",
+        "C. Technetium $^{99}$Tc whole-body bone scintigraphy",
+        "D. Fasting serum C-telopeptide measurement",
+        "E. Reassurance, as no additional workup or treatment is indicated"
+      ],
+      "correctOption": 2,
+      "explanation": "The patient has biochemical and radiographic evidence for PDB but is asymptomatic. Whole-body bone scanning with technetium $^{99}$Tc (Answer C) is indicated to assess the extent of disease, especially considering potential multifocal involvement.",
+      "reference": "CASE 1: \"On the basis of this patient's clinical presentation, which of the following is the best next step in his management?\""
+    },
+    {
+      "id": "e21-16-how1",
+      "type": "how",
+      "subtopic": "Therapeutic Management of PDB",
+      "question": "How does bisphosphonate treatment affect patients with painful Paget disease of bone?",
+      "answer": "Bisphosphonates, particularly intravenous forms like zoledronic acid, are effective in reducing skeletal pain and have a greater sustained effect compared to oral therapy.",
+      "keyPoints": [
+        "Painful PDB is responsive to bisphosphonate treatment.",
+        "Intravenous bisphosphonates confer a greater and more sustained effect than oral forms."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Painful PDB is responsive to treatment with bisphosphonates, with a greater and more sustained effect conferred by intravenous than oral therapy.\""
+    },
+    {
+      "id": "e21-16-why2",
+      "type": "why",
+      "subtopic": "Management of Asymptomatic PDB",
+      "question": "Why is expectant management advised for patients with asymptomatic Paget disease of bone?",
+      "answer": "There is insufficient evidence that pharmacologic interventions, including bisphosphonates, provide benefits such as prevention of deformity or fractures in asymptomatic PDB.",
+      "keyPoints": [
+        "Lack of evidence supporting the benefit of treatment for asymptomatic PDB.",
+        "Expectant management and symptomatic treatment are currently advised."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Importantly, there is insufficient evidence of other disease benefit (ie, prevention of deformity, fractures, orthopedic surgery, hearing loss) with bisphosphonates or other pharmacologic/nonpharmacologic interventions, such that expectant management and treatment of patients with PDB who have been pain is currently advised.\""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e21-38",
+  "type": "mcq",
+  "subtopic": "Thyroid Function Test Discordance",
+  "question": "In a patient with palpitations and weight loss, which of the following is the most appropriate next step in management?",
+  "options": [
+    "Perform contrast-enhanced MRI of the pituitary",
+    "Perform thyrotropin-releasing hormone test",
+    "Measure serum α-subunit",
+    "Measure serum SHBG",
+    "Seek advice on further laboratory analyses"
+  ],
+  "correctOption": 4,
+  "explanation": "Given the patient's symptoms and laboratory findings, the most appropriate next step is to seek further advice. The thyrotropin-releasing hormone test (TRH) may be indicated if there is suspicion of a TSH-secreting pituitary tumor, but given the presence of an elevated free T4 level without suppression of TSH, this suggests potential interference in the thyroid function tests rather than a specific cause like resistance to thyroid hormone or a pituitary adenoma. Seeking advice on further laboratory analyses would be prudent.",
+  "reference": "The patient's thyrotropin-releasing hormone test (TRH) may show an apparent preserved TSH response, which is seen in some patients with TSH-secreting pituitary tumors.",
+  "volume": 2021,
+  "chapterNo": "38",
+  "title": "When Thyroid Function Test Results Dont Make Sense",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_38_When_Thyroid_Function_Test_Results_Dont_Make_Sense.md",
+  "items": []
+}

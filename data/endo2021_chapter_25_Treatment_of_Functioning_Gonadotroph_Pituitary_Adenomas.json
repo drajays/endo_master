@@ -1,0 +1,22 @@
+{
+  "id": "e21-25",
+  "type": "mcq",
+  "subtopic": "Functioning gonadotroph pituitary adenomas presenting with OHSS in premenopausal women",
+  "question": "A 30-year-old woman presents with irregular menstrual cycles and multiple ovarian cysts on ultrasound. Laboratory tests reveal elevated FSH levels, low LH levels, and high estradiol levels. What is the most likely diagnosis?",
+  "options": [
+    "<Option A> Polycystic ovary syndrome (PCOS)",
+    "<Option B> Ovarian hyperstimulation syndrome (OHSS) related to a functioning gonadotroph pituitary adenoma",
+    "<Option C> McCune-Albright syndrome",
+    "<Option D> Ovarian granulosa cell tumor"
+  ],
+  "correctOption": 1,
+  "explanation": "The patient's presentation with irregular menstrual cycles, multiple ovarian cysts, and elevated FSH levels while having low LH levels is consistent with a functioning gonadotroph pituitary adenoma causing OHSS. Polycystic ovary syndrome typically presents with smaller follicles and different hormonal profiles.",
+  "reference": "MAIN CONCLUSIONS: \"Very rarely these gonadotroph adenomas are clinically functioning, and the hypersecretion of gonadotropins are responsible for stimulation of the gonads, particularly in women who may develop OHSS. The first case was described in 1995.\"",
+  "volume": 2021,
+  "chapterNo": "25",
+  "title": "Treatment of Functioning Gonadotroph Pituitary Adenomas",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_25_Treatment_of_Functioning_Gonadotroph_Pituitary_Adenomas.md",
+  "items": []
+}

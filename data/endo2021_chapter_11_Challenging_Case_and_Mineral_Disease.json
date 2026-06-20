@@ -1,0 +1,51 @@
+{
+  "id": "e21-11",
+  "volume": 2021,
+  "chapterNo": "11",
+  "title": "Challenging Case and Mineral Disease",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Neil J. L. Gittoes, BSc, PhD, FRCP",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_11_Challenging_Case_and_Mineral_Disease.md",
+  "items": [
+    {
+      "id": "e21-11-q1",
+      "type": "mcq",
+      "subtopic": "Mineral Disease",
+      "question": "A 42-year-old man presents with acute disturbance of vision bilaterally, mood changes, hyperventilation, paraesthesia, and carpopedal spasm. Which of the following is the most likely cause for this patient's presentation?",
+      "options": [
+        "Anterior ischemic optic neuropathies",
+        "Hypocalcemia",
+        "Primary affective disorder",
+        "Pheochromocytoma",
+        "Normal pressure hydrocephalus"
+      ],
+      "correctOption": 1,
+      "explanation": "The patient's symptoms, including bilateral vision disturbance, mood changes, hyperventilation, paraesthesia, and carpopedal spasm, along with laboratory findings of low serum calcium, are indicative of hypocalcemia. Neuropsychiatric presentations such as mood disturbances and papilledema can be associated with hypocalcemia.",
+      "reference": "MAIN CONCLUSIONS: \"Neuropsychiatric presentations, including mood disturbance, are recognized features of hypocalcemia.\""
+    },
+    {
+      "id": "e21-11-why1",
+      "type": "why",
+      "subtopic": "Bone Disease",
+      "question": "Why is it important not to consider T-score values in isolation when assessing fracture risk?",
+      "answer": "Because DXA-determined data should always be contextualized to the full fracture risk profile of the patient.",
+      "keyPoints": [
+        "T-score values alone do not provide a complete picture of fracture risk.",
+        "Fracture risk assessment must consider multiple factors beyond bone density."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"It is important not to consider T-score values in isolation and use them as isolated thresholds for treatment; DXA-determined data should always be contextualized to the full fracture risk profile of the patient.\""
+    },
+    {
+      "id": "e21-11-how2",
+      "type": "how",
+      "subtopic": "Mineral Disease",
+      "question": "How can genomic techniques aid in diagnosing familial hypocalciuric hypercalcemia?",
+      "answer": "Genomic techniques can help distinguish familial hypocalciuric hypercalcemia from primary hyperparathyroidism by identifying genetic mutations associated with the condition.",
+      "keyPoints": [
+        "Genetic panel testing for FHH is more accessible and reliable than traditional methods.",
+        "This approach aids in differentiating FHH from other conditions like primary hyperparathyroidism."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"However, with genetic panel testing for FHH being more readily accessible, this approach can also be used to help distinguish the condition from primary hyperparathyroidism.\""
+    }
+  ]
+}

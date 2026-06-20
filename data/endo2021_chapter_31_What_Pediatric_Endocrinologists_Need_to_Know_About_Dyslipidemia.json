@@ -1,0 +1,37 @@
+{
+  "diagnosis": "Heterogeneous Familial Hypercholesterolemia",
+  "treatment_recommendations": [
+    {
+      "medication": "Atorvastatin",
+      "dosage": "20 mg daily"
+    },
+    {
+      "medication": "Oral Contraceptive Pill",
+      "dosage": "1 tablet daily"
+    }
+  ],
+  "pregnancy_recommendations": [
+    {
+      "status": "Pregnant",
+      "recommendation": "Discontinue all lipid-lowering medications immediately and avoid using any other lipid-lowering drugs during pregnancy. Consider alternative options for managing cholesterol levels, such as colesevelam, if breastfeeding."
+    }
+  ],
+  "further_actions": [
+    {
+      "action": "Continue genetic testing",
+      "recommendation": "Offer cascade screening to all first-degree relatives of the patient with familial hypercholesterolemia. This includes siblings and children who are at risk for heterozygous familial hypercholesterolemia."
+    },
+    {
+      "action": "Monitor pregnancy closely",
+      "recommendation": "Due to concerns about potential teratogenic effects, close monitoring of the patient's cardiovascular health during pregnancy is recommended. Regular follow-ups with a cardiologist and obstetrician are advised."
+    }
+  ],
+  "id": "e21-31",
+  "volume": 2021,
+  "chapterNo": "31",
+  "title": "What Pediatric Endocrinologists Need to Know About Dyslipidemia",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_31_What_Pediatric_Endocrinologists_Need_to_Know_About_Dyslipidemia.md",
+  "items": []
+}

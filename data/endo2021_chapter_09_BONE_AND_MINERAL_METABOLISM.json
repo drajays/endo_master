@@ -1,0 +1,51 @@
+{
+  "id": "e21-09",
+  "volume": 2021,
+  "chapterNo": "9",
+  "title": "Bone and Mineral Metabolism",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_09_BONE_AND_MINERAL_METABOLISM.md",
+  "items": [
+    {
+      "id": "e21-09-q1",
+      "type": "mcq",
+      "subtopic": "Bone and Mineral Metabolism",
+      "question": "A 55-year-old postmenopausal woman presents with a history of fractures. Which hormone is most likely to be deficient in this patient?",
+      "options": [
+        "A) Parathyroid Hormone (PTH)",
+        "B) Calcitonin",
+        "C) Estrogen",
+        "D) Vitamin D"
+      ],
+      "correctOption": 2,
+      "explanation": "In postmenopausal women, estrogen deficiency is a common cause of decreased bone density and increased fracture risk. Estrogen plays a crucial role in maintaining bone mass by inhibiting osteoclast activity.",
+      "reference": "MAIN CONCLUSIONS: \"Estrogen deficiency leads to increased bone resorption and decreased bone formation.\""
+    },
+    {
+      "id": "e21-09-why1",
+      "type": "why",
+      "subtopic": "Bone and Mineral Metabolism",
+      "question": "Why is estrogen important in maintaining bone health?",
+      "answer": "Because estrogen inhibits osteoclast activity, reducing bone resorption.",
+      "keyPoints": [
+        "Estrogen deficiency leads to increased bone resorption.",
+        "Estrogen helps maintain bone density by balancing bone formation and resorption."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Estrogen plays a crucial role in maintaining bone mass by inhibiting osteoclast activity.\""
+    },
+    {
+      "id": "e21-09-how2",
+      "type": "how",
+      "subtopic": "Bone and Mineral Metabolism",
+      "question": "How does parathyroid hormone (PTH) regulate calcium levels in the blood?",
+      "answer": "PTH increases blood calcium levels by stimulating osteoclast activity, increasing renal reabsorption of calcium, and promoting activation of vitamin D.",
+      "keyPoints": [
+        "PTH stimulates osteoclasts to release calcium from bones.",
+        "PTH enhances renal reabsorption of calcium.",
+        "PTH promotes conversion of inactive vitamin D to its active form."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Parathyroid hormone (PTH) increases blood calcium levels by stimulating bone resorption, increasing renal calcium reabsorption, and enhancing intestinal absorption via activated vitamin D.\""
+    }
+  ]
+}

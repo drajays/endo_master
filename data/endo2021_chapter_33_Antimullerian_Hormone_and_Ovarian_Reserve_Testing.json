@@ -1,0 +1,22 @@
+{
+  "id": "e21-33",
+  "type": "mcq",
+  "subtopic": "Evaluation of the Infertile Woman with Ovarian Reserve Testing",
+  "question": "A 28-year-old woman with Hashimoto disease asks about egg freezing. Which course of action is best?",
+  "options": [
+    "<Option A> Suggest she stop oral contraceptive pill and attempt conception",
+    "<Option B> Measure serum AMH",
+    "<Option C> Refer to reproductive endocrinology for egg freezing",
+    "<Option D> Reassure her that given her young age, future fertility will not be a problem"
+  ],
+  "correctOption": 1,
+  "explanation": "The patient is concerned about future fertility and asks about egg freezing. While she may have anovulatory cycles due to Hashimoto disease, the best course of action is to measure serum AMH first as it can help determine ovarian reserve.",
+  "reference": "MAIN CONCLUSIONS: The elements of the management of the infertile couple are the following: Importance of evaluation of the couple. Primacy of the evaluation and management of the woman.",
+  "volume": 2021,
+  "chapterNo": "33",
+  "title": "Antimullerian Hormone and Ovarian Reserve Testing",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_33_Antimullerian_Hormone_and_Ovarian_Reserve_Testing.md",
+  "items": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "e21-13",
+  "volume": 2021,
+  "chapterNo": "13",
+  "title": "Using the Best Available Evidence to Personalize Osteoporosis Treatment",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "E. Michael Lewiecki, MD; Micol S. Rothman, MD",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_13_Using_the_Best_Available_Evidence_to_Personalize_Osteoporosis_Treatment.md",
+  "items": [
+    {
+      "id": "e21-13-q1",
+      "type": "mcq",
+      "subtopic": "Osteoporosis Treatment Options",
+      "question": "A 62-year-old woman with osteopenia and a history of chronic obstructive pulmonary disease presents after a painful vertebral compression fracture. Which of the following is the best option to reduce the risk of another vertebral fracture in this patient?",
+      "options": [
+        "A. Calcium and vitamin D with no other pharmacologic agent since her DXA shows osteopenia",
+        "B. Kyphoplasty to reduce her risk of adjacent level fracture",
+        "C. Teriparatide for 18 to 24 months followed by antiresorptive therapy",
+        "D. Oral alendronate for 5 years followed by a drug holiday"
+      ],
+      "correctOption": 2,
+      "explanation": "This patient has osteoporosis based on a low-trauma fracture and is at high risk for future fractures, indicating the need for pharmacologic therapy. Teriparatide is preferred due to its effectiveness in increasing spine BMD and reducing vertebral compression fractures compared to alendronate.",
+      "reference": "MAIN CONCLUSIONS: \"...pharmacologic therapy is indicated (thus, Answer A is incorrect)...larger gains in spine BMD (7.2% vs 3.4%), as well as lower rates of vertebral compression fracture (0.6% vs 6.1%) in the teriparatide-treated group.\""
+    },
+    {
+      "id": "e21-13-how1",
+      "type": "how",
+      "subtopic": "Denosumab Discontinuation Strategy",
+      "question": "How should a patient be managed after stopping denosumab treatment for osteoporosis?",
+      "answer": "Another agent must be started immediately to prevent rapid loss of the treatment effect.",
+      "keyPoints": [
+        "There is no role for a drug holiday with denosumab.",
+        "Stopping denosumab requires immediate initiation of another therapy."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"...there is no role for a drug holiday with denosumab (thus, Answer A is incorrect). After stopping denosumab, the treatment effect will be rapidly lost if another agent is not started.\""
+    },
+    {
+      "id": "e21-13-why2",
+      "type": "why",
+      "subtopic": "Clinical Practice Guidelines for Osteoporosis",
+      "question": "Why might guidelines developed by experts interpreting the best available medical evidence be preferred in clinical practice?",
+      "answer": "Because they are simpler, more intuitive, and easier to apply compared to those relying exclusively on data from large trials.",
+      "keyPoints": [
+        "Expert-derived guidelines may offer simplicity and intuitiveness.",
+        "They can be easier to implement in clinical settings."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Guidelines developed by experts interpreting the best available medical evidence may be simpler, more intuitive, and easier to apply in clinical practice...\""
+    }
+  ]
+}

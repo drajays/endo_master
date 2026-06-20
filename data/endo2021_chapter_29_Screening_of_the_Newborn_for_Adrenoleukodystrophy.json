@@ -1,0 +1,23 @@
+{
+  "id": "e21-29",
+  "type": "mcq",
+  "subtopic": "Adrenal Insufficiency Surveillance in Boys with ALD",
+  "question": "For a newborn identified by New York State newborn screening as having elevated VLCFA and a de novo variant of uncertain clinical significance in the ABCD1 gene, what is the best next step?",
+  "options": [
+    "<Option A> Draw sample for ACTH measurement today",
+    "<Option B> Draw sample for cortisol measurement today",
+    "<Option C> Draw sample for both ACTH and cortisol measurement today",
+    "<Option D> Have the baby return for an 8-AM draw for ACTH and cortisol measurement",
+    "<Option E> Perform a high-dose cosyntropin-stimulation test today"
+  ],
+  "correctOption": 3,
+  "explanation": "Given that the infant is at high risk for adrenal insufficiency due to ALD, the clinician should counsel the parents about signs and symptoms of adrenal insufficiency. The baby's age (3 months) does not allow for a predictable diurnal secretion pattern of ACTH and cortisol. Therefore, drawing samples for both ACTH and cortisol measurement today is the best next step.",
+  "reference": "MAIN CONCLUSIONS: \"The youngest patients reported to have biochemical evidence of adrenal dysfunction were 5 months old, 7 months old, and 6 months old. Given the limited experience with male infants known to have ALD and case reports found in the literature, as well as clinician experience, the recommendation was made to start screening shortly after ALD diagnosis. Follow-up surveillance for adrenal insufficiency was recommended every 3 to 4 months for children younger than 2 years and every 4 to 6 months for children older than age 2 years (more frequent screening was recommended in the younger age group due to the challenge of identifying symptoms of adrenal insufficiency in patients younger than 2 years).\"",
+  "volume": 2021,
+  "chapterNo": "29",
+  "title": "Screening of the Newborn for Adrenoleukodystrophy",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_29_Screening_of_the_Newborn_for_Adrenoleukodystrophy.md",
+  "items": []
+}

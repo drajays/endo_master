@@ -1,0 +1,50 @@
+{
+  "id": "e21-21",
+  "volume": 2021,
+  "chapterNo": "21",
+  "title": "Pseudoacromegaly Syndromes",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_21_Pseudoacromegaly_Syndromes.md",
+  "items": [
+    {
+      "id": "e21-21-q1",
+      "type": "mcq",
+      "subtopic": "Acromegaloid Features and Tall Stature",
+      "question": "A 26-year-old man with tall stature is referred to endocrinology. Which of the following steps would be most helpful in differentiating pseudoacromegaly from true acromegaly?",
+      "options": [
+        "Take a family history, including questions regarding consanguinity",
+        "Perform baseline pituitary function tests",
+        "Refer for a genetic consultation",
+        "Measure urinary prostaglandin E2"
+      ],
+      "correctOption": 3,
+      "explanation": "The patient's clubbing, furrowing of the forehead skin, and skinny body habitus are all characteristics of pachydermoperiostosis. These features do not typically accompany pseudoacromegaly.",
+      "reference": "MAIN CONCLUSIONS: Pachydermoperiostosis is a condition that can mimic acromegaloid features but has no associated GH/IGF-1 anomalies."
+    },
+    {
+      "id": "e21-21-why1",
+      "type": "why",
+      "subtopic": "Pachydermoperiostosis and Pseudoacromegaly",
+      "question": "Why is pachydermoperiostosis considered a pseudoacromegaly condition?",
+      "answer": "Because it mimics acromegaloid features but has no associated GH/IGF-1 anomalies.",
+      "keyPoints": [
+        "Pachydermoperiostosis can present with clubbing, furrowing of the forehead skin, and skinny body habitus",
+        "It is a condition that does not have an associated GH/IGF-1 anomaly"
+      ],
+      "reference": "MAIN CONCLUSIONS: Pachydermoperiostosis is a condition that can mimic acromegaloid features but has no associated GH/IGF-1 anomalies."
+    },
+    {
+      "id": "e21-21-how2",
+      "type": "how",
+      "subtopic": "Diagnosing Pachydermoperiostosis",
+      "question": "How can pachydermoperiostosis be diagnosed?",
+      "answer": "By identifying the characteristic features of clubbing, furrowing of the forehead skin, and skinny body habitus.",
+      "keyPoints": [
+        "Clubbing is a key feature in diagnosing pachydermoperiostosis",
+        "Furrowing of the forehead skin can be observed as an additional clue"
+      ],
+      "reference": "MAIN CONCLUSIONS: Pachydermoperiostosis is a condition that can mimic acromegaloid features but has no associated GH/IGF-1 anomalies."
+    }
+  ]
+}

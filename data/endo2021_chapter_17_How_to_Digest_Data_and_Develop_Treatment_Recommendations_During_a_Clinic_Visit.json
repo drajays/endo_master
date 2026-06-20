@@ -1,0 +1,22 @@
+{
+  "id": "e21-17",
+  "type": "mcq",
+  "subtopic": "Sensor-Pump Interactions: Toward 'Closing the Loop'",
+  "question": "In which scenario would moving her NPH insulin to the morning be the best next step for a pregnant woman with type 2 diabetes?",
+  "options": [
+    "Continue the regimen; her time in range is 88%",
+    "Reduce her dosage of NPH; her time below range is 9%",
+    "Move her NPH insulin to the morning",
+    "Re-introduce metformin"
+  ],
+  "correctOption": 2,
+  "explanation": "The patient's overnight glucose levels are within target, but her postlunch blood glucose values are elevated. Moving her NPH insulin to the morning would help ensure that she has sufficient basal coverage during the night and reduce the likelihood of hypoglycemia in the morning.",
+  "reference": "MAIN CONCLUSIONS: The patient's overnight glucose levels are on the low side, but still within target range. Adding metformin might decrease the overnight glucose values even further.",
+  "volume": 2021,
+  "chapterNo": "17",
+  "title": "How to Digest Data and Develop Treatment Recommendations During a Clinic Visit",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_17_How_to_Digest_Data_and_Develop_Treatment_Recommendations_During_a_Clinic_Visit.md",
+  "items": []
+}

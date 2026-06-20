@@ -1,0 +1,49 @@
+{
+  "id": "e21-07",
+  "volume": 2021,
+  "chapterNo": "7",
+  "title": "Diagnosis and Management of Endocrine Hypertension: Deciding Who to Screen for Genetic Causes",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "William F. Young, Jr., MD, MSc.",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_07_Deciding_Who_to_Screen_for_Genetic_Causes.md",
+  "items": [
+    {
+      "id": "e21-07-q1",
+      "type": "mcq",
+      "subtopic": "Pheochromocytoma Diagnosis",
+      "question": "You see two 50-year-old women with adrenal incidentalomas. Which patient(s) should be screened for pheochromocytoma?",
+      "options": [
+        "A. Patient 1",
+        "B. Patient 2",
+        "C. Both patients",
+        "D. Neither patient"
+      ],
+      "correctOption": 1,
+      "explanation": "An adrenal incidentaloma with an unenhanced CT attenuation of less than 10 HU cannot be a pheochromocytoma, thus avoiding false-positive biochemical testing for Patient 1.",
+      "reference": "MAIN CONCLUSIONS: \"In a multicenter retrospective study of 533 patients with 548 histologically confirmed pheochromocytomas...374 had an attenuation value greater than 10 HU (99.5%).\""
+    },
+    {
+      "id": "e21-07-why1",
+      "type": "why",
+      "subtopic": "Primary Aldosteronism Diagnosis",
+      "question": "Why is it important to screen for primary aldosteronism in patients with hypertension?",
+      "answer": "Because the prevalence of target-organ damage and cardiovascular toxicity extends beyond hypertension, leading to increased morbidity.",
+      "keyPoints": [
+        "Increased risk of stroke, coronary artery disease, atrial fibrillation, heart failure, diabetes, metabolic syndrome, and left ventricular hypertrophy in patients with primary aldosteronism compared to essential hypertension."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"The cardiovascular toxicity in primary aldosteronism extends beyond hypertension; there is an aldosterone-specific toxicity.\""
+    },
+    {
+      "id": "e21-07-how2",
+      "type": "how",
+      "subtopic": "Genetic Testing for Pheochromocytoma",
+      "question": "How should genetic testing be approached in patients with pheochromocytoma?",
+      "answer": "Genetic testing is recommended, especially if the patient has a family history of pheochromocytoma or related syndromic disorders.",
+      "keyPoints": [
+        "Consideration for all patients with pheochromocytoma",
+        "Particularly important in cases with bilateral adrenal involvement, young age at diagnosis, or familial syndromes."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Genetic testing should be considered in all patients with pheochromocytoma, especially if a patient has 1 or more of the following...\""
+    }
+  ]
+}

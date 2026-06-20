@@ -1,0 +1,22 @@
+{
+  "id": "e21-36",
+  "type": "mcq",
+  "subtopic": "Secondary Hypogonadism and Gonadotropin Therapy",
+  "question": "A 38-year-old man has been on testosterone replacement therapy for delayed puberty. He now presents with azoospermia. Which of the following statements is correct regarding his case?",
+  "options": [
+    "Prior testosterone therapy impairs chance of successful sperm induction in men with hypogonadism",
+    "The goal should be a sperm count in the World Health Organization reference range (15 million/mL) to achieve spontaneous pregnancy",
+    "Pretreatment with 6 months of FSH will increase sperm count more when compared with starting treatment with hCG or GnRH",
+    "He should be counseled about the risk of gynecomastia when starting hCG therapy"
+  ],
+  "correctOption": 3,
+  "explanation": "The correct answer is that he should be counseled about the risk of gynecomastia when starting hCG therapy. Testosterone therapy does not significantly reduce the effectiveness of sperm induction for hypogonadotropic hypogonadism, and couples can become pregnant with sperm counts much lower than the World Health Organization reference range. Pretreatment with FSH will not increase sperm count more compared to starting treatment with hCG or GnRH.",
+  "reference": "Recent meta-analyses suggest that testosterone therapy does not significantly reduce the effectiveness of sperm induction for hypogonadotropic hypogonadism (thus, Answer A is incorrect). Couples can become pregnant with sperm counts much lower than the World Health Organization reference range (thus, Answer B is incorrect). A recent article gested that recombinant FSH pretreatment by aid seminiferous tubule development. No significant increase in sperm count was observed in this small body (thus, Answer C is incorrect). hCG may cause gynecomastia in a minority of cases, which occasionally be irreversible and disfiguring.",
+  "volume": 2021,
+  "chapterNo": "36",
+  "title": "Evaluation of Male Infertility",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_36_Evaluation_of_Male_Infertility.md",
+  "items": []
+}

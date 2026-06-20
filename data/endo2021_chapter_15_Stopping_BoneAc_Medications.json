@@ -1,0 +1,50 @@
+{
+  "id": "e21-15",
+  "volume": 2021,
+  "chapterNo": "15",
+  "title": "Stopping Bone-Ac Medications",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Ian R. Reid, MD",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_15_Stopping_BoneAc_Medications.md",
+  "items": [
+    {
+      "id": "e21-15-q1",
+      "type": "mcq",
+      "subtopic": "Denosumab Discontinuation Strategy",
+      "question": "A patient has been receiving denosumab injections every 6 months for 5 years, and she has been fracture-free during that time. Her current hip T-score is -2.2. Which of the following is the best recommendation?",
+      "options": [
+        "A. Continuation of current therapy",
+        "B. A 1-year drug holiday",
+        "C. Permanent cessation of treatment",
+        "D. Transition to a bisphosphonate"
+      ],
+      "correctOption": 0,
+      "explanation": "Continuing denosumab or transitioning to a bisphosphonate is recommended due to the risk of rebound vertebral fractures upon discontinuation.",
+      "reference": "MAIN CONCLUSIONS: \"Up to 15% of patients stopping long-term denosumab experience vertebral fractures, and multiple fractures are seen in 10%.\""
+    },
+    {
+      "id": "e21-15-why1",
+      "type": "why",
+      "subtopic": "Denosumab Offset Phenomenon",
+      "question": "Why is it important to transition patients from denosumab to another antiresorptive agent upon discontinuation?",
+      "answer": "Because stopping denosumab can lead to a rebound phenomenon with excessive bone loss and multiple vertebral fractures.",
+      "keyPoints": [
+        "Denosumab has a high risk of causing vertebral fractures upon discontinuation.",
+        "Transitioning to another antiresorptive agent helps prevent this catastrophic outcome."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"This is a potentially catastrophic outcome that must be anticipated by patient counseling at the time of treatment initiation and vigorously prevented by transition to bisphosphonates if denosumab is stopped.\""
+    },
+    {
+      "id": "e21-15-how2",
+      "type": "how",
+      "subtopic": "Teriparatide Transition Strategy",
+      "question": "How should a patient be managed after 2 years of teriparatide treatment?",
+      "answer": "Transition the patient to a bisphosphonate or denosumab to maintain bone mineral density gains.",
+      "keyPoints": [
+        "Teriparatide use is limited to 18-24 months due to osteosarcoma risk in animal studies.",
+        "Bone loss resumes after discontinuation, necessitating transition to another therapy."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Therefore, this patient should not continue teriparatide any longer... Therefore, the convention is to transition to a bisphosphonate or denosumab.\""
+    }
+  ]
+}

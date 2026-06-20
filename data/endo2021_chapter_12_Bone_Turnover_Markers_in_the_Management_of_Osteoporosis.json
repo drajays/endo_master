@@ -1,0 +1,50 @@
+{
+  "id": "e21-12",
+  "volume": 2021,
+  "chapterNo": "12",
+  "title": "Bone Turnover Markers in the Management of Osteoporosis",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Richard Eastell, MD. Department of Oncology and Metabolism, University of Sheffield, Sheffield, South Yorkshire, England; E-mail: r.eastell@sheffield.ac.uk",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_12_Bone_Turnover_Markers_in_the_Management_of_Osteoporosis.md",
+  "items": [
+    {
+      "id": "e21-12-q1",
+      "type": "mcq",
+      "subtopic": "Bone Turnover Markers in Osteoporosis Management",
+      "question": "A 70-year-old woman has osteopenia noted in spinal radiographs. She is treated with alendronate, calcium, and vitamin D. After 6 months of treatment, her CTX level decreased to 120 ng/L and PINP to 20 μg/L. At 60 months, these levels remained the same, but at 72 months they increased to 400 ng/L for CTX and 40 μg/L for PINP. Did the patient respond to treatment? Has the treatment effect worn off?",
+      "options": [
+        "A. She responded to treatment and the effect has worn off",
+        "B. She did not respond to treatment and the effect has not worn off",
+        "C. She responded to treatment and the effect has not worn off",
+        "D. The results cannot be interpreted as there is too much variability"
+      ],
+      "correctOption": 0,
+      "explanation": "The patient initially showed a significant decrease in both CTX and PINP levels, indicating a response to alendronate treatment. After stopping the medication for 12 months (from month 60 to 72), there was an increase in these markers above premenopausal median values, suggesting that the effect of the treatment had worn off.",
+      "reference": "MAIN CONCLUSIONS: \"The greater the response, the greater the reduction in fracture risk. The goal in the individual patient is for the change in BTMs to exceed the least significant change into the lower half (or below) of the reference interval for healthy young women.\""
+    },
+    {
+      "id": "e21-12-why1",
+      "type": "why",
+      "subtopic": "Bone Turnover Markers and Treatment Monitoring",
+      "question": "Why are bone turnover markers (BTMs) considered useful in monitoring the offset of treatment effect in osteoporosis?",
+      "answer": "Because BTMs respond rapidly to changes in therapy, allowing clinicians to detect when antiresorptive effects diminish after stopping treatments like bisphosphonates.",
+      "keyPoints": [
+        "BTMs provide rapid feedback on bone metabolism changes.",
+        "They help identify the need to restart therapy if levels rise above premenopausal median values."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"An increase beyond the least significant change or to a level in the upper half (or above) of the reference range for healthy young women indicates the need to restart therapy.\""
+    },
+    {
+      "id": "e21-12-how2",
+      "type": "how",
+      "subtopic": "Application of Bone Turnover Markers",
+      "question": "How should clinicians use bone turnover markers (BTMs) to assess treatment response in osteoporosis?",
+      "answer": "Clinicians measure BTMs before and after starting treatment, comparing changes against least significant change thresholds and premenopausal median values to determine if the patient has responded.",
+      "keyPoints": [
+        "Measure BTMs at baseline and 3 months post-treatment initiation.",
+        "Evaluate response by checking if BTM levels fall below premenopausal median values."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"The goal in the individual patient is for the change in BTMs to exceed the least significant change into the lower half (or below) of the reference interval for healthy young women.\""
+    }
+  ]
+}

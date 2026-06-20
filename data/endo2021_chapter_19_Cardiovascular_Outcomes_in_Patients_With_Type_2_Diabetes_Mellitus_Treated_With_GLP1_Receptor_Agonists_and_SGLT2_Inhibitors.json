@@ -1,0 +1,22 @@
+{
+  "id": "e21-19",
+  "type": "mcq",
+  "subtopic": "Cardiovascular Outcomes in Patients With Type 2 Diabetes Mellitus Treated With GLP1 Receptor Agonists and SGLT2 Inhibitors",
+  "question": "A 76-year-old woman with T2DM, hyperlipidemia, hypertension, and coronary artery disease requiring stent placement is seen for evaluation. Which of the following changes to her medication regimen would be recommended at this time?",
+  "options": [
+    "<Option A> No change",
+    "<Option B> Start metformin",
+    "<Option C> Start empagliflozin",
+    "<Option D> Discontinue hydrochlorothiazide"
+  ],
+  "correctOption": 2,
+  "explanation": "The patient should be started on an SGLT-2 inhibitor like empagliflozin, as it has been shown to reduce the risk of cardiovascular events in patients with established ASCVD. The addition of metformin is not recommended due to its lack of efficacy in reducing cardiovascular risk in patients with established ASCVD.",
+  "reference": "MAIN CONCLUSIONS: 'The cardiovascular benefits of GLP-1 receptor agonist therapy may be due to beneficial antiatherogenic effects of the medications mediated by improvements in cardiovascular risk factors such as weight and blood pressure. The mechanisms of benefit provided by SGLT-2 inhibitors are likely different and may be in part attributable to favorable hemodynamic and other effects induced by glycosuria and natriuresis.'",
+  "volume": 2021,
+  "chapterNo": "19",
+  "title": "Cardiovascular Outcomes in Patients With Type 2 Diabetes Mellitus Treated With GLP1 Receptor Agonists and SGLT2 Inhibitors",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_19_Cardiovascular_Outcomes_in_Patients_With_Type_2_Diabetes_Mellitus_Treated_With_GLP1_Receptor_Agonists_and_SGLT2_Inhibitors.md",
+  "items": []
+}

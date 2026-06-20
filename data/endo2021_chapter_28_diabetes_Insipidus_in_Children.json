@@ -1,0 +1,22 @@
+{
+  "id": "e21-28",
+  "type": "mcq",
+  "subtopic": "Central Diabetes Insipidus in Children",
+  "question": "In a child with central diabetes insipidus, which of the following statements is true regarding the diagnosis and treatment?",
+  "options": [
+    "A. A low copeptin concentration would establish the diagnosis of DI of any cause",
+    "B. A water-deprivation study is indicated but should be done on an inpatient basis",
+    "C. Therapy with desmopressin can be initiated",
+    "D. Serum and urine osmolality should be measured"
+  ],
+  "correctOption": 2,
+  "explanation": "The correct answer is C: Therapy with desmopressin can be initiated. This child has a calculated serum osmolality already above 304 mOsm/kg (twice the sodium), plus the additional component from the glucose (5 mOsm/kg). This finding, coupled with the urine, establishes the diagnosis of DI. A low copeptin concentration in the face of hyperosmolality might imply central DI (Answer A); however, this remains to be proven in children. In addition, it would be a test only for central DI, not nephrogenic DI.",
+  "reference": "MAIN CONCLUSIONS: \"The main treatment is desmopressin. Desmopressin was introduced in the 1970s and remains the main treatment. Desmopressin is a synthetic analogue of the hormone 8-arginine AVP and has a longer half-life than AVP. The antidiuretic action is more specific than that of AVP, and it has less pressor activity.\"",
+  "volume": 2021,
+  "chapterNo": "28",
+  "title": "diabetes Insipidus in Children",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_28_diabetes_Insipidus_in_Children.md",
+  "items": []
+}

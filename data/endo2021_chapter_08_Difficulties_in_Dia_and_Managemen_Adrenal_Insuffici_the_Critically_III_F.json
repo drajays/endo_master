@@ -1,0 +1,51 @@
+{
+  "id": "e21-08",
+  "volume": 2021,
+  "chapterNo": "8",
+  "title": "Difficulties in Diagnosis and Management of Adrenal Insufficiency in the Critically Ill",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "David J. Torpy, MBBS, PhD, FRACP",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_08_Difficulties_in_Dia_and_Managemen_Adrenal_Insuffici_the_Critically_III_F.md",
+  "items": [
+    {
+      "id": "e21-08-q1",
+      "type": "mcq",
+      "subtopic": "Adrenal Insufficiency in Critical Illness",
+      "question": "A 75-year-old man is admitted to the hospital with septic shock 2 weeks after a 3-vessel coronary bypass graft procedure. Fluid resuscitation and norepinephrine infusion are administered, but hypotension persists. A random serum cortisol measurement is 18 μg/dL (497 nmol/L) and a 250-mcg cosyntropin test reveals a baseline cortisol value of 14 μg/dL (386 nmol/L) with a rise to 17 μg/dL (469 nmol/L) at 60 minutes. Which of the following statements is true?",
+      "options": [
+        "A. Administration of intravenous hydrocortisone is not indicated, as the evidence in trials does not show a consistent mortality benefit and the risks of treatment are excessive",
+        "B. This patient meets the criteria for treatment with hydrocortisone for presumed CIRCI and cosyntropin testing was mandatory before consideration of intravenous hydrocortisone therapy",
+        "C. The results of testing may reflect low cortisol-binding proteins (corticosteroid-binding globulin and albumin) and these should be measured to clarify the pathophysiology and guide treatment",
+        "D. Salivary free cortisol measurement may assist with diagnosis",
+        "E. The clinical circumstances warrant the use of low-dosage hydrocortisone such as intravenous 200 mg daily for 7 days without taper"
+      ],
+      "correctOption": 4,
+      "explanation": "Hydrocortisone is recommended in septic shock unresponsive to fluid resuscitation and inotropes. Pressor effects are well demonstrated to reduce vasopressor requirement and time to withdrawal of vasopressor. The CIRCI operational definition is not required for hydrocortisone treatment. Risks of 7-day hydrocortisone treatment do not outweigh benefit.",
+      "reference": "MAIN CONCLUSIONS: \"Hydrocortisone use is recommended in septic shock unresponsive to fluid resuscitation and inotropes.\""
+    },
+    {
+      "id": "e21-08-why1",
+      "type": "why",
+      "subtopic": "Adrenal Insufficiency Management",
+      "question": "Why might serum cortisol measurements not reflect end-organ glucocorticoid sufficiency in critically ill patients?",
+      "answer": "Because tissue resistance to cortisol and reduced concentrations of the principal carrier proteins for cortisol, such as corticosteroid-binding globulin (CBG) and albumin, can occur.",
+      "keyPoints": [
+        "Tissue resistance to cortisol",
+        "Reduced concentrations of CBG and albumin"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Routine measurements of serum cortisol may not reflect end-organ glucocorticoid sufficiency due to tissue resistance to cortisol and reduced concentrations of the principal carrier proteins for cortisol, corticosteroid-binding globulin (CBG) and albumin.\""
+    },
+    {
+      "id": "e21-08-how2",
+      "type": "how",
+      "subtopic": "Hydrocortisone Therapy in Critical Illness",
+      "question": "How does hydrocortisone therapy benefit patients with septic shock?",
+      "answer": "Hydrocortisone therapy can reduce the time to vasopressor withdrawal and improve pressor response, which is beneficial for managing hypotension unresponsive to fluids and vasopressors.",
+      "keyPoints": [
+        "Reduces time to vasopressor withdrawal",
+        "Improves pressor response"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Immediate response to exogenous glucocorticoids may not reflect mortality or ultimate pressor benefit in critical illness.\""
+    }
+  ]
+}
