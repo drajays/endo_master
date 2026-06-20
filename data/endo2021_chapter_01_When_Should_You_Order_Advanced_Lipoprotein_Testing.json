@@ -1,0 +1,109 @@
+{
+  "id": "e21-01",
+  "volume": 2021,
+  "chapterNo": "1",
+  "title": "When Should You Order Advanced Lipoprotein Testing?",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "Ronald M. Krauss, MD",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_01_When_Should_You_Order_Advanced_Lipoprotein_Testing.md",
+  "items": [
+    {
+      "id": "e21-01-q1",
+      "type": "mcq",
+      "subtopic": "Therapy",
+      "question": "A 43-year-old woman with borderline dyslipidemia and a significant family history of early coronary heart disease presents for cardiovascular risk assessment. Initial laboratory testing shows total cholesterol 206 mg/dL, LDL cholesterol 136 mg/dL, and triglycerides 96 mg/dL. Her estimated 10-year risk for ASCVD is 5.8%. An advanced lipid panel reveals:\n- Total LDL particles: 1676 nmol/L (High)\n- Small LDL particles: 394 nmol/L (High)\n- Medium LDL particles: 457 nmol/L (High)\n- LDL subclass pattern: B\n- Lipoprotein(a): 173 nmol/L (High)\n\nBased on the patient's overall clinical status, what treatment should be recommended initially?",
+      "options": [
+        "Diet only, with further limitation of saturated fat",
+        "Nicotinic acid",
+        "A PCSK9 inhibitor",
+        "A statin"
+      ],
+      "correctOption": 3,
+      "explanation": "Based on their well-established and general efficacy, statins remain the first-line pharmacologic intervention for all patients considered to be at increased risk of ASCVD. Limitation of dietary carbohydrate (rather than saturated fat) is more appropriate for reducing small LDL particles. Nicotinic acid has failed to produce clinical benefit in large trials when added to maximal statin therapy. PCSK9 inhibitors are currently indicated only for addition to maximal statin therapy or for documented statin intolerance.",
+      "reference": "CASE 1: \"Based on these values, assuming the laboratory values are corroborated by repeated testing, and based on the patient's overall clinical status, what treatment should be recommended initially? ... Answer: D) A statin\""
+    },
+    {
+      "id": "e21-01-why1",
+      "type": "why",
+      "subtopic": "Diagnosis",
+      "question": "Why can standard total and HDL cholesterol measurements fail to identify individuals at high risk for ASCVD?",
+      "answer": "Standard lipid panels measure the cholesterol content within lipoproteins, not the concentrations of the lipoprotein particles themselves. Individuals can have normal LDL-cholesterol levels but highly elevated concentrations of small, dense LDL particles or remnant lipoproteins, which are highly proatherogenic. Conversely, standard algorithms may overestimate risk in individuals with large, cholesterol-rich but less atherogenic LDL particles.",
+      "keyPoints": [
+        "Standard lipid panels measure cholesterol content, not particle concentration.",
+        "Proatherogenic small, dense LDL and remnants are not resolved by standard LDL-C.",
+        "Particle concentrations (LDL-P or apoB) provide a more accurate reflection of atherogenic particle load."
+      ],
+      "reference": "LEARNING OBJECTIVES: \"Explain why standard cholesterol measurements may not identify abnormal levels of lipoprotein particles associated with cardiovascular disease risk.\""
+    },
+    {
+      "id": "e21-01-how1",
+      "type": "how",
+      "subtopic": "Diagnosis",
+      "question": "How is advanced lipoprotein testing composed, and what specific components does it measure?",
+      "answer": "Advanced lipoprotein testing measures the concentration of lipoprotein particle subclasses (such as small, dense LDL, triglyceride-rich remnants, and large HDL) using methodologies like NMR spectroscopy or ion mobility. It also includes apolipoprotein B (apoB) levels and lipoprotein(a) [Lp(a)], which is measured by immunoassay.",
+      "keyPoints": [
+        "Includes LDL particle subclass concentrations (small, medium, dense LDL).",
+        "Measures total LDL particle count (LDL-P) and apolipoprotein B (apoB).",
+        "Measures lipoprotein(a) [Lp(a)] by immunoassay."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Collectively, these measurements, as well as plasma levels of total LDL particles and/or apolipoprotein B, comprise advanced lipoprotein testing.\""
+    },
+    {
+      "id": "e21-01-why2",
+      "type": "why",
+      "subtopic": "Therapy",
+      "question": "Why is the limitation of dietary carbohydrate preferred over restriction of saturated fat for patients with a prominent small dense LDL (Pattern B) profile?",
+      "answer": "Elevated levels of small, dense LDL particles (LDL subclass pattern B) are driven by hepatic triglyceride synthesis and carbohydrate-induced lipogenesis. Restricting saturated fat primarily lowers large LDL particles, whereas restricting carbohydrate intake reduces triglyceride levels and shifts LDL particles from the small, dense proatherogenic subclass to larger, less dense subclasses.",
+      "keyPoints": [
+        "Small, dense LDL particles are strongly linked to hepatic carbohydrate lipogenesis.",
+        "Low-carbohydrate diets lower triglycerides and reduce small dense LDL count.",
+        "Low-fat diets lower total cholesterol by reducing large, cholesterol-rich LDL."
+      ],
+      "reference": "CASE 1: \"Limitation of carbohydrate rather than saturated fat (Answer A) is most appropriate for reducing elevated levels of small LDL particles...\""
+    },
+    {
+      "id": "e21-01-why3",
+      "type": "why",
+      "subtopic": "Diagnosis",
+      "question": "Why is cascade screening of first-degree family members recommended for individuals found to have elevated lipoprotein(a) [Lp(a)]?",
+      "answer": "Lp(a) levels are under strong genetic control, primarily driven by autosomal co-dominant inheritance of polymorphisms at the LPA gene locus. When an individual has elevated Lp(a), there is a 50% probability that first-degree relatives also inherit the trait. Identifying these relatives early allows for aggressive management of other modifiable ASCVD risk factors.",
+      "keyPoints": [
+        "Lp(a) levels are highly heritable and determined genetically by the LPA gene locus.",
+        "First-degree relatives have a 50% chance of having elevated Lp(a).",
+        "Enables early initiation of risk-reduction therapy in affected relatives."
+      ],
+      "reference": "STRATEGIES FOR DIAGNOSIS: \"Due to the strong genetic basis of elevated Lp(a), cascade screening of first-degree family members for this condition has value for directing more aggressive efforts...\""
+    },
+    {
+      "id": "e21-01-tf1",
+      "type": "true_false",
+      "subtopic": "Diagnosis",
+      "statement": "Lipoprotein(a) [Lp(a)] levels are easily measured and discriminated by nuclear magnetic resonance (NMR) spectroscopy and ion mobility techniques.",
+      "correctAnswer": false,
+      "explanation": "Lp(a) is not readily discriminated by NMR or ion mobility techniques and thus is most commonly measured by immunoassay.",
+      "reference": "STRATEGIES FOR DIAGNOSIS: \"Lp(a). This particle is not readily discriminated by nuclear magnetic resonance or ion mobility techniques and thus is most commonly measured by immunoassay.\""
+    },
+    {
+      "id": "e21-01-ar1",
+      "type": "assertion_reason",
+      "subtopic": "Diagnosis",
+      "assertion": "Apolipoprotein B (apoB) measurement is often used as a clinical surrogate for total atherogenic particle concentration.",
+      "reason": "Each atherogenic lipoprotein particle (including LDL, VLDL, and IDL) contains exactly one molecule of apolipoprotein B.",
+      "correctOption": 0,
+      "explanation": "ApoB is an excellent surrogate for atherogenic particle concentration because every VLDL, IDL, LDL, and Lp(a) particle contains exactly one apoB molecule. This allows total apoB to reflect the total number of atherogenic particles in circulation.",
+      "reference": "MAIN CONCLUSIONS: \"Collectively, these measurements, as well as plasma levels of total LDL particles and/or apolipoprotein B, comprise advanced lipoprotein testing.\""
+    },
+    {
+      "id": "e21-01-why4",
+      "type": "why",
+      "subtopic": "Diagnosis",
+      "question": "Why is an estimate of remnant cholesterol calculated as an alternative to direct measurement of remnant lipoproteins?",
+      "answer": "Although remnant (or intermediate-density) lipoprotein particles can be directly measured by NMR and ion mobility, their specific reference levels are not yet clinically established for ASCVD risk assessment. Calculating remnant cholesterol (total cholesterol minus LDL and HDL cholesterol) serves as a practical, widely available surrogate for estimating these atherogenic remnants.",
+      "keyPoints": [
+        "Direct measurement of remnants by NMR or ion mobility is not yet clinically standardized for ASCVD risk assessment.",
+        "Calculated remnant cholesterol (TC - LDL-C - HDL-C) acts as an alternative clinical surrogate."
+      ],
+      "reference": "STRATEGIES FOR DIAGNOSIS: \"Although remnant (or intermediate-density) lipoprotein particles are also measured... An estimate of remnant cholesterol, calculated as... has been suggested as an alternative.\""
+    }
+  ]
+}
