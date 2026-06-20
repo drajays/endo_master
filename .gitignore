@@ -1,0 +1,17 @@
+# Ignore raw OCR datasets and materials directory
+noupload/
+williams_2024_chapters/
+
+# Ignore Python bytecode and caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE / local configuration folders
+.gemini/
+.vscode/
+.idea/

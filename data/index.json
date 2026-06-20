@@ -1,0 +1,707 @@
+{
+  "title": "Endocrinology Master App — Clinical Q-Bank & Notes",
+  "hotTopics": {
+    "title": "Hot Topics",
+    "description": "Evidence-based endocrinology deep dives, landmark trials, and clinical pearl deep dives.",
+    "topics": []
+  },
+  "caseReports": {
+    "title": "Case Reports",
+    "description": "Clinical vignettes with case descriptions, teaching notes, and MCQs.",
+    "reports": []
+  },
+  "trials": {
+    "title": "Trials",
+    "description": "Landmark clinical trials in endocrinology with design summaries and takeaways.",
+    "entries": []
+  },
+  "sections": [
+    {
+      "name": "Williams Textbook of Endocrinology 15th Edition (2024)",
+      "chapters": [
+        {
+          "id": "w15-00",
+          "no": "FM",
+          "title": "Front Matter",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-01",
+          "no": "1",
+          "title": "Principles of Endocrinology",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-02",
+          "no": "2",
+          "title": "Principles of Hormone Action",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-03",
+          "no": "3",
+          "title": "Genetics of Endocrinology",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-04",
+          "no": "4",
+          "title": "Laboratory Techniques for Recognition of Endocrine Disorders",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-05",
+          "no": "5",
+          "title": "Neuroendocrinology",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-06",
+          "no": "6",
+          "title": "Pituitary Physiology and Diagnostic Evaluation",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-07",
+          "no": "7",
+          "title": "Pituitary Adenomas and Masses",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-08",
+          "no": "8",
+          "title": "Posterior Pituitary",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-09",
+          "no": "9",
+          "title": "Thyroid Pathophysiology and Diagnostic Evaluation",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-10",
+          "no": "10",
+          "title": "Hyperthyroid Disorders",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-11",
+          "no": "11",
+          "title": "Hypothyroidism and Thyroiditis",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-12",
+          "no": "12",
+          "title": "Nontoxic Diffuse Goiter Nodular Thyroid Disorders and Thyroid Malignancies",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-13",
+          "no": "13",
+          "title": "The Adrenal Cortex",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-14",
+          "no": "14",
+          "title": "Endocrine Hypertension",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-15",
+          "no": "15",
+          "title": "Physiology and Pathology of the Female Reproductive Axis",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-16",
+          "no": "16",
+          "title": "Hormonal Contraception",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-17",
+          "no": "17",
+          "title": "Testicular Disorders",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-18",
+          "no": "18",
+          "title": "Sexual Function and Dysfunction",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-19",
+          "no": "19",
+          "title": "Endocrine Changes in Pregnancy",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-20",
+          "no": "20",
+          "title": "Endocrinology of Fetal Development",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-21",
+          "no": "21",
+          "title": "Differences of Sex Development",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-22",
+          "no": "22",
+          "title": "Normal and Aberrant Growth in Children",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-23",
+          "no": "23",
+          "title": "Physiology and Disorders of Puberty",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-24",
+          "no": "24",
+          "title": "Transgender Endocrinology",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-25",
+          "no": "25",
+          "title": "Hormones and Athletic Performance",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-26",
+          "no": "26",
+          "title": "Endocrine Function and Aging",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-27",
+          "no": "27",
+          "title": "Hormones and Disorders of Mineral Metabolism",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-28",
+          "no": "28",
+          "title": "Endocrine Functions of Bone",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-29",
+          "no": "29",
+          "title": "Basic and Clinical Aspects",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-30",
+          "no": "30",
+          "title": "Rickets and Osteomalacia",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-31",
+          "no": "31",
+          "title": "Kidney Stones",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-32",
+          "no": "32",
+          "title": "Physiology of Insulin Secretion",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-33",
+          "no": "33",
+          "title": "Pathophysiology of Type 2 Diabetes Mellitus",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-34",
+          "no": "34",
+          "title": "Therapeutics of Type 2 Diabetes Mellitus",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-35",
+          "no": "35",
+          "title": "Type 1 Diabetes Mellitus",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-36",
+          "no": "36",
+          "title": "Digitized Approaches to Diabetes Diagnostics and Therapeutics",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-37",
+          "no": "37",
+          "title": "Monogenic Diabetes",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-38",
+          "no": "38",
+          "title": "Complications of Diabetes Mellitus",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-39",
+          "no": "39",
+          "title": "Hypoglycemia",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-40",
+          "no": "40",
+          "title": "Obesity and Neuroendocrine Control of Energy Stores",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-41",
+          "no": "41",
+          "title": "Disorders of Lipoprotein Metabolism",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-42",
+          "no": "42",
+          "title": "Endocrine Neoplasia Syndromes",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-43",
+          "no": "43",
+          "title": "Neuroendocrine Tumors and Disorders",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-44",
+          "no": "44",
+          "title": "The Immunoendocrinopathy Syndromes",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-45",
+          "no": "45",
+          "title": "Endocrinology of Cancer Management and Survivorship",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-46",
+          "no": "46",
+          "title": "Endocrinology of HIVAIDS",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-47",
+          "no": "47",
+          "title": "Acute and Chronic COVID19 and the Endocrine System",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "w15-48",
+          "no": "48",
+          "title": "Endocrine Disorders of Critical Illness",
+          "file": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "name": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+      "chapters": [
+        {
+          "id": "e21-01",
+          "no": "1",
+          "title": "When Should You Order Advanced Lipoprotein Testing",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-02",
+          "no": "2",
+          "title": "Challenging Cases in Nutritional and Medical Treatment of Obesity",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-03",
+          "no": "3",
+          "title": "Managing Weight Effects of Medications to Optimize Health in Patients With OverweightObesity",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-04",
+          "no": "4",
+          "title": "What an Endocrinologist Should Know About the Surgical Treatment of Obesity",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-05",
+          "no": "5",
+          "title": "Selection Dosing and Monitoring of Steroid Replacement in the Patient With Adrenal Failure",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-06",
+          "no": "6",
+          "title": "Complexities in the Diagnosis and Treatment of Cushing Syndrome",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-07",
+          "no": "7",
+          "title": "Deciding Who to Screen for Genetic Causes",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-08",
+          "no": "8",
+          "title": "Difficulties in Dia and Managemen Adrenal Insuffici the Critically III F",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-09",
+          "no": "9",
+          "title": "BONE AND MINERAL METABOLISM",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-10",
+          "no": "10",
+          "title": "Evaluation of the Patient With Hypophosphatemia",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-11",
+          "no": "11",
+          "title": "Challenging Case and Mineral Disease",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-12",
+          "no": "12",
+          "title": "Bone Turnover Markers in the Management of Osteoporosis",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-13",
+          "no": "13",
+          "title": "Using the Best Available Evidence to Personalize Osteoporosis Treatment",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-14",
+          "no": "14",
+          "title": "Is There an Ideal Vitamin D Level and Dosage for All Circumstances",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-15",
+          "no": "15",
+          "title": "Stopping BoneAc Medications",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-16",
+          "no": "16",
+          "title": "Modern Manager Patient With Pac",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-17",
+          "no": "17",
+          "title": "How to Digest Data and Develop Treatment Recommendations During a Clinic Visit",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-18",
+          "no": "18",
+          "title": "Practical Approaches to the Genetic Diagnosis and Management of Patients With Diabetes Mellitus",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-19",
+          "no": "19",
+          "title": "Cardiovascular Outcomes in Patients With Type 2 Diabetes Mellitus Treated With GLP1 Receptor Agonists and SGLT2 Inhibitors",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-20",
+          "no": "20",
+          "title": "Pharmacologic Approaches to the Patient With Nonalcoholic Fatty Liver Disease",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-21",
+          "no": "21",
+          "title": "Pseudoacromegaly Syndromes",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-22",
+          "no": "22",
+          "title": "Prevention and Management of Carcinoid Crisis",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-23",
+          "no": "23",
+          "title": "Management complications",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-24",
+          "no": "24",
+          "title": "Risks Adverse Effects Surveillance and Intervention",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-25",
+          "no": "25",
+          "title": "Treatment of Functioning Gonadotroph Pituitary Adenomas",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-26",
+          "no": "26",
+          "title": "Management of Pituitary Hormone Replacement Through Transition From Adolescence to Young Adulthood",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-27",
+          "no": "27",
+          "title": "When to Worry and What to Do",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-28",
+          "no": "28",
+          "title": "diabetes Insipidus in Children",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-29",
+          "no": "29",
+          "title": "Screening of the Newborn for Adrenoleukodystrophy",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-30",
+          "no": "30",
+          "title": "YouthOnset Type 2 Diabetes Mellitus",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-31",
+          "no": "31",
+          "title": "What Pediatric Endocrinologists Need to Know About Dyslipidemia",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-32",
+          "no": "32",
+          "title": "Diagnosis and Management of Functional Hypogonadism in the Male Patient",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-33",
+          "no": "33",
+          "title": "Antimullerian Hormone and Ovarian Reserve Testing",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-34",
+          "no": "34",
+          "title": "Management of Hormone Replacement Therapy in PostReproductiveAged Women",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-35",
+          "no": "35",
+          "title": "detection and Management of Abuse of Androgenic performanceEnhancing Drugs",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-36",
+          "no": "36",
+          "title": "Evaluation of Male Infertility",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-37",
+          "no": "37",
+          "title": "Patients With oid Cancer",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-38",
+          "no": "38",
+          "title": "When Thyroid Function Test Results Dont Make Sense",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-39",
+          "no": "39",
+          "title": "Surveillance of the Patient Who Has Had Therapeutic Hemithyroidectomy for Thyroid Cancer",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-40",
+          "no": "40",
+          "title": "Management of Thyroid Dysfunction Before and During Pregnancy",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-41",
+          "no": "41",
+          "title": "The EndocrinologyOncology InterfaceHow Do We Help Each Other",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-42",
+          "no": "42",
+          "title": "How to Screen and Treat",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e21-43",
+          "no": "43",
+          "title": "The EndocrinologyPsychiatry InterfaceHow Do We Help Each Other",
+          "file": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "name": "Endocrine Self-Assessment Program 2015 (Endo 2015)",
+      "chapters": [
+        {
+          "id": "e15-01",
+          "no": "1",
+          "title": "Front Matter",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e15-02",
+          "no": "2",
+          "title": "Laboratory Reference Ranges",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e15-03",
+          "no": "3",
+          "title": "Questions",
+          "file": null,
+          "status": "pending"
+        },
+        {
+          "id": "e15-04",
+          "no": "4",
+          "title": "Answers",
+          "file": null,
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}
