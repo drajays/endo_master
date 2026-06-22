@@ -1,22 +1,46 @@
 {
   "id": "e21-26",
-  "type": "mcq",
-  "subtopic": "Hypopituitarism Management at Transition",
-  "question": "For a patient with hypopituitarism, which hormone is most likely to be deficient and require replacement therapy?",
-  "options": [
-    "Growth Hormone (GH)",
-    "Thyroid-Stimulating Hormone (TSH)",
-    "Prolactin (PRL)",
-    "Adrenocorticotropic Hormone (ACTH)"
-  ],
-  "correctOption": 0,
-  "explanation": "In hypopituitarism, the anterior pituitary gland is often underdeveloped or absent. This leads to deficiencies in hormones such as Growth Hormone (GH), which is crucial for growth and development. The other hormones like TSH, PRL, and ACTH are typically produced by the posterior pituitary, but their deficiency can be masked if there is no anterior pituitary gland.",
-  "reference": "MAIN CONCLUSIONS: 'The need for a holistic, multidisciplinary approach is never greater than at puberty. Significant input is required from the clinician and the clinical nurse specialist/nurse practitioner. Challenges around adherence, optimal dosage, behavior, psychology, and emerging independence from parents should be tackled with the help of a range of multidisciplinary professionals.'",
   "volume": 2021,
   "chapterNo": "26",
   "title": "Management of Pituitary Hormone Replacement Through Transition From Adolescence to Young Adulthood",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_26_Management_of_Pituitary_Hormone_Replacement_Through_Transition_From_Adolescence_to_Young_Adulthood.md",
-  "items": []
+  "items": [
+    {
+      "**Clinical Case Vignettes**": 1.100224,
+      "id": "e21-26-q1",
+      "type": "mcq",
+      "options": [
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctOption": 0
+    },
+    {
+      "type": "why",
+      "subtopic": "Hypopituitarism Management",
+      "question": "Why is vigilance and regular testing of pituitary function necessary on a lifelong basis for children with hypopituitarism?",
+      "answer": "Because the condition may evolve throughout adolescence and childhood, necessitating ongoing monitoring to ensure timely detection and management of any changes in hormone levels.",
+      "keyPoints": [
+        "Children with hypopituitarism require regular testing due to its phenotypic variability and potential for evolving over time",
+        "Lifelong vigilance is necessary to catch any shifts or deficiencies that may occur as children grow"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Hypopituitarism is phenotypically a highly variable condition that may encompass a single hormone deficiency or multiple pituitary hormone deficiencies, including both anterior and posterior pituitary hormones. The condition may evolve throughout adolescence and childhood, and hence there is a need for vigilance and regular testing of pituitary function on a lifelong basis.\"",
+      "id": "e21-26-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "Monitoring Approach for Hormone Replacement Therapy in Hypopituitarism",
+      "question": "How should hormone replacement therapy be monitored to ensure good outcomes in terms of height, weight, and clinical well-being?",
+      "answer": "To ensure good outcomes in terms of height, weight, and clinical well-being, hormone replacement therapy should be carefully managed with diligent monitoring. This includes regular assessment of auxology (growth and development), general well-being, and biochemical profiles to adjust the dosage and timing of hormone administration as needed.",
+      "keyPoints": [
+        "Regular monitoring is crucial for adjusting hormone replacement therapy",
+        "Assessment of growth and development should be a priority"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Importantly, puberty is highly variable in children with hypopituitarism, and may be normal in timing, delayed, or absent. Paradoxically, in patients with septo-optic dysplasia, it may occur early. Reversibility of pituitary hormone deficits may occur, even in the presence of a structurally abnormal pituitary gland. Nevertheless, MRI remains an extremely useful tool in the management of hypopituitarism. Careful hormone replacement with diligent monitoring of auxology, general well-being, and biochemical profiles is critical to ensuring good outcomes in terms of height, weight, and clinical well-being. Finally, hypopituitarism may be associated with a range of other clinical phenotypes, including morbid obesity, autism, learning difficulties, and visual impairment, necessitating a careful multidisciplinary approach to the problem. A holistic approach involves a pediatric and adult (at transition and thereafter) endocrinologist, ophthalmologist, neurodevelopmental pediatrician, clinical nurse specialist, psychologist, dietitian, and social worker.\"",
+      "id": "e21-26-how1"
+    }
+  ]
 }

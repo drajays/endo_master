@@ -1,0 +1,27 @@
+{
+  "answer": "Repeat thyroid function tests after 4 weeks",
+  "id": "e21-40",
+  "volume": 2021,
+  "chapterNo": "40",
+  "title": "Management of Thyroid Dysfunction Before and During Pregnancy",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_40_Management_of_Thyroid_Dysfunction_Before_and_During_Pregnancy.md",
+  "items": [
+    {
+      "type": "mcq",
+      "subtopic": "General",
+      "question": "Which of the following should be advised for a 38-year-old woman with a history of 2 first-trimester miscarriages, no notable medical history, and clinically euthyroid but with elevated TSH and TPO antibodies?",
+      "options": [
+        "Continue current medication regimen",
+        "Start levothyroxine at 1.6 mcg/kg daily",
+        "Repeat thyroid function tests after 4 weeks",
+        "Advise total thyroidectomy"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "reference": "",
+      "id": "e21-40-q1"
+    }
+  ]
+}

@@ -1,23 +1,51 @@
 {
   "id": "e21-29",
-  "type": "mcq",
-  "subtopic": "Adrenal Insufficiency Surveillance in Boys with ALD",
-  "question": "For a newborn identified by New York State newborn screening as having elevated VLCFA and a de novo variant of uncertain clinical significance in the ABCD1 gene, what is the best next step?",
-  "options": [
-    "<Option A> Draw sample for ACTH measurement today",
-    "<Option B> Draw sample for cortisol measurement today",
-    "<Option C> Draw sample for both ACTH and cortisol measurement today",
-    "<Option D> Have the baby return for an 8-AM draw for ACTH and cortisol measurement",
-    "<Option E> Perform a high-dose cosyntropin-stimulation test today"
-  ],
-  "correctOption": 3,
-  "explanation": "Given that the infant is at high risk for adrenal insufficiency due to ALD, the clinician should counsel the parents about signs and symptoms of adrenal insufficiency. The baby's age (3 months) does not allow for a predictable diurnal secretion pattern of ACTH and cortisol. Therefore, drawing samples for both ACTH and cortisol measurement today is the best next step.",
-  "reference": "MAIN CONCLUSIONS: \"The youngest patients reported to have biochemical evidence of adrenal dysfunction were 5 months old, 7 months old, and 6 months old. Given the limited experience with male infants known to have ALD and case reports found in the literature, as well as clinician experience, the recommendation was made to start screening shortly after ALD diagnosis. Follow-up surveillance for adrenal insufficiency was recommended every 3 to 4 months for children younger than 2 years and every 4 to 6 months for children older than age 2 years (more frequent screening was recommended in the younger age group due to the challenge of identifying symptoms of adrenal insufficiency in patients younger than 2 years).\"",
   "volume": 2021,
   "chapterNo": "29",
   "title": "Screening of the Newborn for Adrenoleukodystrophy",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_29_Screening_of_the_Newborn_for_Adrenoleukodystrophy.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Adrenal Insufficiency in ALD",
+      "question": "At what age would you have started daily doses of hydrocortisone for this patient?",
+      "options": [
+        "A. 6 weeks",
+        "B. 4 months",
+        "C. 7 months",
+        "D. 13 months",
+        "E. 16 months"
+      ],
+      "correctOption": 3,
+      "explanation": "Based on the algorithm provided in the text, daily doses of hydrocortisone should have been started at age 13 months (Answer D). The ACTH cutoff of 300 pg/mL or higher was chosen as it is reported that the adrenal cortex is maximally stimulated with an ACTH concentration of 300 pg/mL. However, in this case, the baby had evidence of hyperpigmentation and was not gaining weight well at age 7 months, which may have warranted starting daily doses earlier than the algorithm suggests. The decision to start hydrocortisone therapy should be based on a combination of clinical signs and symptoms, as well as laboratory testing.",
+      "reference": "\"On the basis of the algorithm (Figure), stress doses of hydrocortisone should have been started at 6 weeks of age (Answer A), when the peak cortisol concentration was 17.1 μg/dL (471.8 nmol/L). It is notable that the cutoff of 18 μg/dL (496.6 nmol/L) is based on older polyclonal assays and it is possible that newer monoclonal assays may have lower normal cutoffs.\"",
+      "id": "e21-29-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Newborn Screening for ALD",
+      "question": "Why is early detection of adrenal insufficiency through newborn screening important for boys with ALD?",
+      "answer": "Because early monitoring, diagnosis, and treatment of adrenal insufficiency can prevent life-threatening adrenal crisis.",
+      "keyPoints": [
+        "Early detection allows for timely initiation of treatment",
+        "Prevents severe complications such as adrenal crisis"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"ALD is the most common peroxisomal disorder and presents variably with adrenal insufficiency, neurologic disease, and testicular dysfunction. Recently, ALD was added to state newborn screening panels. Initial newborn screening data suggest that ALD may be more prevalent than previously described and adrenal insufficiency may develop in some affected boys during early infancy. Early monitoring, diagnosis, and treatment of adrenal insufficiency can prevent life-threatening adrenal crisis. The Pediatric Endocrine Society developed an algorithm to guide clinicians caring for boys with ALD identified by newborn screening. The publication suggests a monitoring schedule for adrenal insufficiency, addresses the ambiguities in cortisol and ACTH test results, and guides therapeutic decisions for boys with ALD.\"",
+      "id": "e21-29-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "monitoring_approach",
+      "question": "How should clinicians monitor boys identified by newborn screening for adrenal insufficiency due to Adrenoleukodystrophy (ALD)?",
+      "answer": "The Pediatric Endocrine Society developed an algorithm that guides clinicians in monitoring boys with ALD identified by newborn screening. This algorithm suggests a specific schedule for monitoring adrenal insufficiency, addresses ambiguities in cortisol and ACTH test results, and provides therapeutic decisions for these patients.",
+      "keyPoints": [
+        "An algorithm from the Pediatric Endocrine Society is used to guide monitoring of boys with ALD identified by newborn screening.",
+        "The algorithm includes a specific schedule for monitoring adrenal insufficiency."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"The Pediatric Endocrine Society developed an algorithm to guide clinicians caring for boys with ALD identified by newborn screening. The publication suggests a monitoring schedule for adrenal insufficiency, addresses the ambiguities in cortisol and ACTH test results, and guides therapeutic decisions for boys with ALD.\"",
+      "id": "e21-29-how1"
+    }
+  ]
 }

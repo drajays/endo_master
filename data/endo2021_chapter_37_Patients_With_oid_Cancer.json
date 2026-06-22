@@ -1,22 +1,26 @@
 {
   "id": "e21-37",
-  "type": "mcq",
-  "subtopic": "Early Diagnosis and Follow-Up of MTC",
-  "question": "For a patient with a right thyroid nodule, what is the best next step if serum calcitonin concentration is greater than 20 pg/mL but less than 100 pg/mL (5.8-29.2 pmol/L)?",
-  "options": [
-    "<Option A> Wait and see; perform clinical and biochemical examination every 6 months",
-    "<Option B> Total thyroidectomy with central neck dissection",
-    "<Option C> Lobectomy for diagnostic purpose",
-    "<Option D> Repeated FNA for immunocytochemistry for calcitonin and measurement of calcitonin in the needle washout"
-  ],
-  "correctOption": 3,
-  "explanation": "In cases where serum calcitonin is greater than 20 pg/mL but less than 100 pg/mL, it should prompt further diagnostic procedures. A calcium-stimulation test can be performed to confirm if the calcitonin is secreted by MTC.",
-  "reference": "MAIN CONCLUSIONS: \"The fact that a significant advantage in prolonging the progression-free survival time has been demonstrated by both drugs, so far neither shown an increase in overall survival.\"",
   "volume": 2021,
   "chapterNo": "37",
   "title": "Patients With oid Cancer",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_37_Patients_With_oid_Cancer.md",
-  "items": []
+  "items": [
+    {
+      "type": "mcq",
+      "subtopic": "Early Diagnosis and Management of MTC",
+      "question": "A 43-year-old woman with a right thyroid nodule has a serum calcitonin concentration of 45 pg/mL. What is the best next step in her management?",
+      "options": [
+        "Wait and see; perform clinical and biochemical examination every 6 months",
+        "Total thyroidectomy with central neck dissection",
+        "Lobectomy for diagnostic purpose",
+        "Repeated FNA for immunocytochemistry for calcitonin and measurement of calcitonin in the needle washout"
+      ],
+      "correctOption": 3,
+      "explanation": "Given that the serum calcitonin concentration is greater than 20 pg/mL but less than 100 pg/mL, it serves as an alert. The patient should undergo a repeated fine-needle aspiration (FNA) for immunocytochemistry for calcitonin and measurement of calcitonin in the needle washout to further investigate the thyroid nodule.",
+      "reference": "MAIN CONCLUSIONS: 'Elevated basal serum calcitonin, especially a medium-low level (ie, <100 pg/mL (<29.2 pmol/L)), should not be immediately considered to be diagnostic of MTC. These medium-low levels can be further investigated by performing a stimulation test with the intravenous administration of calcium to confirm that the calcitonin is really secreted by MTC: a significant increase in serum calcitonin (usually 3 to 4 times the basal level) is observed in patients with MTC, but not in those with elevated basal serum calcitonin derived from other sources or artifacts.'",
+      "id": "e21-37-q1"
+    }
+  ]
 }

@@ -1,22 +1,50 @@
 {
   "id": "e21-24",
-  "type": "mcq",
-  "subtopic": "Dopamine Agonists: Risks, Adverse Effects, Surveillance, and Intervention",
-  "question": "Which patient is most likely concerned about hypersexuality as an adverse effect of cabergoline?",
-  "options": [
-    "Difficulty urinating",
-    "Hypersexuality",
-    "Sleep apnea",
-    "Restless legs"
-  ],
-  "correctOption": 1,
-  "explanation": "The correct answer is Hypersexuality. The vignette states that the patient's wife is most likely concerned about hypersexuality as an adverse effect of cabergoline.",
-  "reference": "\"Hypersexuality\" can be seen in up to 20% of patients taking dopamine agonists like cabergoline, such as with cabergoline.",
   "volume": 2021,
   "chapterNo": "24",
   "title": "Risks Adverse Effects Surveillance and Intervention",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_24_Risks_Adverse_Effects_Surveillance_and_Intervention.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Prolactinoma Management",
+      "question": "A 29-year-old man with a prolactinoma has been on cabergoline for several months. His wife asks whether his cabergoline dosage could be reduced due to concerns about hypersexuality. Which of the following is the best next step in this patient's management?",
+      "options": [
+        "Perform transsphenoidal debulking",
+        "Switch to bromocriptine",
+        "Increase the cabergoline dosage",
+        "Perform stereotactic radiosurgery"
+      ],
+      "correctOption": 2,
+      "explanation": "The correct option is to increase the cabergoline dosage. The text states that fifteen to twenty percent of patients with prolactinomas do not achieve normal prolactin levels with conventional dosages of cabergoline (≤2 mg weekly). For such patients, there are a number of alternatives, including increasing the dosage. Increasing the dosage is recommended as it can result in further responses and is less likely to cause adverse effects compared to switching to another medication or performing invasive procedures like transsphenoidal debulking or stereotactic radiosurgery.",
+      "reference": "\"Fifteen to twenty percent of patients with prolactinomas do not achieve normal prolactin levels with conventional dosages of cabergoline ( $ \\leq $2 mg weekly). For such patients, there are a number of alternatives. Occasionally, patients who do not respond to cabergoline do respond to bromocriptine, but the numbers reported are too low to determine how common this is. Conversely, about 50% of patients who do not respond to bromocriptine do respond to cabergoline. However, most patients who have some response to cabergoline will have a further response if the dosage is increased. Dosage increases should be done in a stepwise fashion, documenting a reduction in prolactin levels with each dosage increase.\"",
+      "id": "e21-24-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Dopamine Agonist Adverse Effects",
+      "question": "Why does cabergoline often lead to obsessive-compulsive behavior such as hypersexuality and gambling?",
+      "answer": "Because dopamine agonists, particularly cabergoline, can cause a range of adverse effects including the development of obsessive-compulsive behaviors like hypersexuality and gambling. This is an unusual but recognized side effect associated with their use in treating prolactinomas.",
+      "keyPoints": [
+        "Cabergoline is more likely to cause obsessive-compulsive behavior than bromocriptine.",
+        "This side effect can occur even when the drug is used as directed."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Although dopamine agonists have been shown to be highly effective and remain the mainstay of the treatment of patients with prolactinomas, their use does entail some risks and adverse effects. An unusual adverse effect is the development of obsessive-compulsive behavior, such as hypersexuality and gambling. This is usually seen with cabergoline.\"\n",
+      "id": "e21-24-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "Monitoring Approach for Dopamine Agonist Use in Prolactinoma Treatment",
+      "question": "How is cerebrospinal fluid rhinorrhea diagnosed and managed?",
+      "answer": "Cerebrospinal fluid rhinorrhea can be diagnosed by measuring β2-transferrin in the nasal fluid. If detected, it must be repaired to prevent meningitis.",
+      "keyPoints": [
+        "Cerebrospinal fluid rhinorrhea is a potential adverse effect of dopamine agonist use for prolactinoma treatment.",
+        "It can be diagnosed through β2-transferrin measurement in the nasal fluid."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"An unusual adverse effect is the development of obsessive-compulsive behavior, such as hypersexuality and gambling. This is usually seen with cabergoline. With either cabergoline or bromocriptine, shrinkage of a large skull-based macroadenoma that invades the sellar floor can result in the leakage of cerebrospinal fluid around the now smaller tumor. Cerebrospinal fluid rhinorrhea can be diagnosed by measuring β2-transferrin in the nasal fluid, and the leak must be repaired to prevent meningitis.\"",
+      "id": "e21-24-how1"
+    }
+  ]
 }

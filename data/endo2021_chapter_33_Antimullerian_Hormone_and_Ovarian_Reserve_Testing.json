@@ -1,22 +1,50 @@
 {
   "id": "e21-33",
-  "type": "mcq",
-  "subtopic": "Evaluation of the Infertile Woman with Ovarian Reserve Testing",
-  "question": "A 28-year-old woman with Hashimoto disease asks about egg freezing. Which course of action is best?",
-  "options": [
-    "<Option A> Suggest she stop oral contraceptive pill and attempt conception",
-    "<Option B> Measure serum AMH",
-    "<Option C> Refer to reproductive endocrinology for egg freezing",
-    "<Option D> Reassure her that given her young age, future fertility will not be a problem"
-  ],
-  "correctOption": 1,
-  "explanation": "The patient is concerned about future fertility and asks about egg freezing. While she may have anovulatory cycles due to Hashimoto disease, the best course of action is to measure serum AMH first as it can help determine ovarian reserve.",
-  "reference": "MAIN CONCLUSIONS: The elements of the management of the infertile couple are the following: Importance of evaluation of the couple. Primacy of the evaluation and management of the woman.",
   "volume": 2021,
   "chapterNo": "33",
   "title": "Antimullerian Hormone and Ovarian Reserve Testing",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_33_Antimullerian_Hormone_and_Ovarian_Reserve_Testing.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Polycystic Ovary Syndrome (PCOS) Management",
+      "question": "For a 32-year-old woman diagnosed with PCOS who has had oligomenorrhea for over a year, no history of conception, mild hirsutism, and hyperandrogenism, what is the best initial management approach?",
+      "options": [
+        "Advise them to keep trying to conceive and increase intercourse frequency to 4 times weekly",
+        "Measure serum AMH in the woman",
+        "Measure serum AMH in the woman and perform semen analysis in her husband",
+        "Start a trial of letrozole for the woman"
+      ],
+      "correctOption": 3,
+      "explanation": "The correct answer is D) Start a trial of letrozole for the woman. This approach is recommended because the patient has chronic anovulation and hyperandrogenism, which are characteristic features of Polycystic Ovary Syndrome (PCOS). Letrozole is effective in inducing ovulation in PCOS patients. The other options do not address the primary issue: the lack of ovulation. Increasing intercourse frequency might be considered if there was no history of conception but given her oligomenorrhea and hyperandrogenism, this approach alone would likely have a low success rate. Measuring AMH can help assess response to treatment but is not the initial management step. Semen analysis in the husband is unnecessary as most healthy young men are fertile.",
+      "reference": "\"However, measurement of AMH has been suggested as helpful in assessing response to ovulation induction, so some would suggest measurement. In this patient, as in most, if not all, women with PCOS, AMH would be elevated (most likely above 5 ng/mL [>35.7 pmol/L]). This value would also suggest which women would be at highest risk for multifollicular development and risk for multiple pregnancy, suggesting the need for ultrasonography monitoring of ovulation induction.\"",
+      "id": "e21-33-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Management of Older Women with Diminished Ovarian Reserve",
+      "question": "Why should older women with diminished ovarian reserve be managed more aggressively compared to younger women?",
+      "answer": "Because older women with diminished ovarian reserve often have a shorter timeline for conception and may require assisted reproductive technology (ART) after a short course of medical therapy and/or intrauterine insemination.",
+      "keyPoints": [
+        "Older women with diminished ovarian reserve face a more challenging pregnancy timeline",
+        "They are more likely to benefit from ART, including in vitro fertilization (IVF)"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Decreased ovarian reserve in young women is not implicated in infertility and/or lowered fecundity. Older women, especially those with diminished ovarian reserve, may have a shortened timeline for conception and should be managed more aggressively. They often require assisted reproductive technology to conceive after a short course of medical therapy and/or intrauterine insemination.\"",
+      "id": "e21-33-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "Assessment of Ovarian Reserve in Older Women",
+      "question": "How should ovarian reserve be assessed in older women who are infertile?",
+      "answer": "In older women with diminished ovarian reserve, their timeline for conception is often shortened. Therefore, they should be managed more aggressively and may require assisted reproductive technology (ART) such as intrauterine insemination (IUI) or in vitro fertilization (IVF) after a short course of medical therapy.",
+      "keyPoints": [
+        "Older women with diminished ovarian reserve have a shorter conception timeline.",
+        "They often need more aggressive management, including ART like IUI or IVF."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Decreased ovarian reserve in young women is not implicated in infertility and/or lowered fecundity. Older women, especially those with diminished ovarian reserve, may have a shortened timeline for conception and should be managed more aggressively. They often require assisted reproductive technology to conceive after a short course of medical therapy and/or intrauterine insemination.\"",
+      "id": "e21-33-how1"
+    }
+  ]
 }

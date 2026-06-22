@@ -1,23 +1,27 @@
 {
   "id": "e21-38",
-  "type": "mcq",
-  "subtopic": "Thyroid Function Test Discordance",
-  "question": "In a patient with palpitations and weight loss, which of the following is the most appropriate next step in management?",
-  "options": [
-    "Perform contrast-enhanced MRI of the pituitary",
-    "Perform thyrotropin-releasing hormone test",
-    "Measure serum α-subunit",
-    "Measure serum SHBG",
-    "Seek advice on further laboratory analyses"
-  ],
-  "correctOption": 4,
-  "explanation": "Given the patient's symptoms and laboratory findings, the most appropriate next step is to seek further advice. The thyrotropin-releasing hormone test (TRH) may be indicated if there is suspicion of a TSH-secreting pituitary tumor, but given the presence of an elevated free T4 level without suppression of TSH, this suggests potential interference in the thyroid function tests rather than a specific cause like resistance to thyroid hormone or a pituitary adenoma. Seeking advice on further laboratory analyses would be prudent.",
-  "reference": "The patient's thyrotropin-releasing hormone test (TRH) may show an apparent preserved TSH response, which is seen in some patients with TSH-secreting pituitary tumors.",
   "volume": 2021,
   "chapterNo": "38",
   "title": "When Thyroid Function Test Results Dont Make Sense",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_38_When_Thyroid_Function_Test_Results_Dont_Make_Sense.md",
-  "items": []
+  "items": [
+    {
+      "type": "mcq",
+      "subtopic": "Interpretation of Thyroid Function Tests (TFT) results in presence of intercurrent illness and/or medication use",
+      "question": "In a patient with palpitations, weight loss, and heat intolerance who has an elevated free T₄ but normal TSH level despite the presence of goiter, which is the most appropriate next step to determine if the TFT results are due to laboratory assay interference or genuine thyrotoxicosis?",
+      "options": [
+        "Perform contrast-enhanced MRI of the pituitary",
+        "Perform thyrotropin-releasing hormone test",
+        "Measure serum α-subunit",
+        "Measure serum SHBG",
+        "Seek advice on further laboratory analyses"
+      ],
+      "correctOption": 4,
+      "explanation": "The patient's symptoms and physical examination findings suggest a possible diagnosis of hyperthyroidism. However, the normal TSH level in the presence of an elevated free T₄ indicates that the thyroid gland is likely functioning normally. The most appropriate next step would be to seek advice on further laboratory analyses to rule out potential interference with the TFT results due to intercurrent illness or medication use.",
+      "reference": "MAIN CONCLUSIONS: 'Discordant or anomalous TFT results may arise in the context of: Confounding intercurrent illness and/or medication use. Erratic or poor adherence to levothyroxine therapy. Interference in commonly used laboratory assays for thyroid hormone or TSH measurement. Rare genetic or acquired disorders of the hypothalamic-pituitary-thyroid (HPT) axis. Successful resolution of discordant or normalous TFT results is dependent on a sound understanding of: HPT axis physiology and the mechanisms governing thyroid hormone action at a cellular level. Key principles and methodologies underpinning commonly used thyroid hormone and TSH assays. Patterns of abnormal TFT results. Roles of dynamic tests, radiologic investigation, and genetic testing in the diagnosis of rare genetic and acquired disorders of the HPT axis.'",
+      "id": "e21-38-q1"
+    }
+  ]
 }

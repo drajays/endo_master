@@ -1,0 +1,51 @@
+{
+  "id": "e21-20",
+  "volume": 2021,
+  "chapterNo": "20",
+  "title": "Pharmacologic Approaches to the Patient With Nonalcoholic Fatty Liver Disease",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_20_Pharmacologic_Approaches_to_the_Patient_With_Nonalcoholic_Fatty_Liver_Disease.md",
+  "items": [
+    {
+      "subtopic": "Nonalcoholic Steatohepatitis (NASH) Management",
+      "question": "Which of the following statements regarding why Nonalcoholic Fatty Liver Disease (NAFLD) is associated with a 2- to 3-fold risk of developing hyperglycemia and Type 2 Diabetes Mellitus (T2DM) is correct?",
+      "options": [
+        "A. Individuals with NAFLD are more insulin-resistant at the level of muscle, liver, and adipose tissue than individuals without NAFLD, even if they are lean and without diabetes",
+        "B. In NAFLD, insulin resistance is present in the muscle and liver but not in adipose tissue",
+        "C. In NAFLD, insulin resistance is present in the liver and adipose tissue but not in muscle",
+        "D. Nonobese individuals are not insulin resistant and rarely develop NAFLD",
+        "E. Obese individuals with diabetes without NAFLD are usually insulin sensitive (about 30% of all patients with diabetes)"
+      ],
+      "correctOption": 0,
+      "explanation": "The correct answer is A. Individuals with NAFLD are more insulin-resistant at the level of muscle, liver, and adipose tissue than individuals without NAFLD, even if they are lean and without diabetes (Answer A). In patients with NAFLD, the insulin resistance is present at the level of muscle, liver, and adipose tissue, and as a direct consequence, hepatic glucose production and adipose tissue lipolysis are increased. This leads to higher fasting glucose and free fatty acid concentrations, resulting in a higher risk of T2DM in these patients.",
+      "reference": "\"As reviewed by Gastaldelli et al, ^{47} individuals with NAFLD are more insulin resistant than those without NAFLD, even if they are lean and without diabetes (Answer A). In patients with NAFLD, the insulin resistance is present at the level of muscle, liver, and adipose tissue, and as a direct consequence, hepatic glucose production and adipose tissue lipolysis are increased. This leads to higher fasting glucose and free fatty acid concentrations. This leads to increased risk of T2DM in these patients.\"",
+      "id": "e21-20-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "NAFLD Treatment and Screening",
+      "question": "Why should patients with T2DM be screened for NAFLD even if plasma aminotransferase levels are normal?",
+      "answer": "Because screening is important to identify patients at risk for disease progression, especially in those who may not have typical symptoms of NAFLD.",
+      "keyPoints": [
+        "Patients with diabetes (T2DM) are considered high-risk and should be screened for NAFLD/NASH even if aminotransferase levels are normal",
+        "Screening helps identify patients at risk for disease progression, such as NASH"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Patients with diabetes (T2DM) are considered a high-risk population for this condition and should be screened for the presence of NAFLD and NASH even if concentrations of plasma aminotransferases are normal. The presence of NASH in a patient with T2DM should prompt early treatment with lifestyle intervention and use of therapies proven to be effective in randomized controlled trials.\"",
+      "id": "e21-20-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step for NAFLD screening",
+      "question": "How should patients at high risk, such as those with T2DM, be screened for NAFLD?",
+      "answer": "Patients with diabetes are considered a high-risk population for non-alcoholic fatty liver disease (NAFLD) and non-alcoholic steatohepatitis (NASH). They should be screened for the presence of NAFLD and NASH even if plasma aminotransferase concentrations are normal. Screening methods typically include clinical assessment, imaging studies such as ultrasound or MRI with fat-signal analysis, and liver biopsy to confirm the diagnosis.",
+      "keyPoints": [
+        "Patients with diabetes should be screened for NAFLD/NASH due to their high risk.",
+        "Screening includes clinical assessment, imaging studies, and liver biopsy."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Patients with diabetes are considered a high-risk population for this condition and should be screened for the presence of NAFLD and NASH even if concentrations of plasma aminotransferases are normal. The presence of NASH in a patient with T2DM should prompt early treatment with lifestyle intervention and use of therapies proven to be effective in randomized controlled trials.\"",
+      "id": "e21-20-how1"
+    }
+  ]
+}

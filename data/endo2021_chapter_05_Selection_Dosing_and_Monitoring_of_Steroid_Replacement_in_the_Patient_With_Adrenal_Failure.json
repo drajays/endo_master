@@ -1,22 +1,50 @@
 {
   "id": "e21-05",
-  "type": "mcq",
-  "subtopic": "Glucocorticoid Replacement Therapy",
-  "question": "For a pregnant patient with primary adrenal insufficiency, which of the following adjustments is recommended?",
-  "options": [
-    "No adjustments in either hydrocortisone or fludrocortisone are needed throughout the pregnancy",
-    "Double the hydrocortisone dosage during third trimester, continue the same fludrocortisone dosage",
-    "Increase the hydrocortisone dosage to 25 mg daily in the second trimester and to 30 mg daily in the third trimester; monitor the need for fludrocortisone adjustment",
-    "Increase the hydrocortisone and fludrocortisone dosages by 20% now"
-  ],
-  "correctOption": 2,
-  "explanation": "During pregnancy, cortisol production increases due to increased placental production of corticotropin-releasing hormone. To mimic this physiological increase in cortisol, the hydrocortisone dosage should be increased by 20-40% in second and third trimesters.",
-  "reference": "MAIN CONCLUSIONS: 'The goal of therapy is to achieve absence of orthostatic hypotension and normal electrolytes and renin plasma activity. Monitoring includes assessment of orthostatic vitals during each visit, electrolytes, and renin plasma activity at least yearly or 3 months after each dosage adjustment.'",
   "volume": 2021,
   "chapterNo": "5",
   "title": "Selection Dosing and Monitoring of Steroid Replacement in the Patient With Adrenal Failure",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_05_Selection_Dosing_and_Monitoring_of_Steroid_Replacement_in_the_Patient_With_Adrenal_Failure.md",
-  "items": []
+  "items": [
+    {
+      "id": "e21-05-q1",
+      "type": "mcq",
+      "subtopic": "Shift work and adrenal insufficiency",
+      "question": "A 31-year-old pregnant woman with primary autoimmune adrenal insufficiency is on hydrocortisone, 15 mg on waking and 5 mg at noon; fludrocortisone, 100 mcg daily. She has no concerns and no new symptoms. What adjustment would also be recommended during her pregnancy?",
+      "options": [
+        "No adjustments in either hydrocortisone or fludrocortisone are needed throughout the pregnancy",
+        "Double the hydrocortisone dosage during third trimester, continue the same fludrocortisone dosage",
+        "Increase the hydrocortisone dosage to 25 mg daily in the second trimester and to 30 mg daily in the third trimester; monitor the need for fludrocortisone adjustment",
+        "Increase the hydrocortisone and fludrocortisone dosages by 20% now"
+      ],
+      "correctOption": 2,
+      "explanation": "During pregnancy, cortisol production increases due to increased placental production of corticotropin-releasing hormone. To mimic this physiological increase in cortisol, the hydrocortisone dosage should be increased by 20-40% in the second and third trimesters.",
+      "reference": "MAIN CONCLUSIONS: 'Glucocorticoid potency and circadian delivery need to be considered when deciding on the glucocorticoid type, dose, and frequency of administration. Both clinical and biochemical parameters are helpful in monitoring of optimal replacement therapy.'"
+    },
+    {
+      "id": "e21-05-why1",
+      "type": "why",
+      "subtopic": "Shift work and adrenal insufficiency",
+      "question": "Why should the hydrocortisone dosage be increased by 20-40% in the second and third trimesters?",
+      "answer": "Because cortisol production increases during pregnancy, possibly due to increased placental production of corticotropin-releasing hormone.",
+      "keyPoints": [
+        "Cortisol production increases during pregnancy",
+        "Increased progesterone concentration during pregnancy has an antimineralocorticoid effect"
+      ],
+      "reference": "MAIN CONCLUSIONS: 'Glucocorticoid potency and circadian delivery need to be considered when deciding on the glucocorticoid type, dose, and frequency of administration. Both clinical and biochemical parameters are helpful in monitoring of optimal replacement therapy.'"
+    },
+    {
+      "id": "e21-05-how2",
+      "type": "how",
+      "subtopic": "Shift work and adrenal insufficiency",
+      "question": "How should glucocorticoid replacement be adjusted for shift workers?",
+      "answer": "Change glucocorticoid and mineralocorticoid replacement according to schedule (take the larger dose of hydrocortisone on waking, the second dose 6 to 8 hours after the first one).",
+      "keyPoints": [
+        "Shift workers should change their glucocorticoid and mineralocorticoid replacement according to schedule",
+        "Take the larger dose of hydrocortisone on waking"
+      ],
+      "reference": "MAIN CONCLUSIONS: 'Glucocorticoid potency and circadian delivery need to be considered when deciding on the glucocorticoid type, dose, and frequency of administration. Both clinical and biochemical parameters are helpful in monitoring of optimal replacement therapy.'"
+    }
+  ]
 }

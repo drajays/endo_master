@@ -1,23 +1,51 @@
 {
   "id": "e21-27",
-  "type": "mcq",
-  "subtopic": "Pediatric Bone Fragility Evaluation",
-  "question": "For a 14-year-old girl with primary amenorrhea and stress fracture of the right foot, which evaluation is most appropriate?",
-  "options": [
-    "A. DXA of spine and hip",
-    "B. DXA of whole body and spine",
-    "C. Prolactin, LH, FSH, estradiol, and 25-hydroxyvitamin D measurements and celiac screen",
-    "D. Lateral spine x-ray",
-    "E. Serum pregnancy test"
-  ],
-  "correctOption": 3,
-  "explanation": "The patient is a young girl with primary amenorrhea who has sustained a stress fracture of the right foot. Given her age, the most appropriate initial evaluation would be to assess for underlying causes such as hypogonadism and vitamin D deficiency, which can lead to bone fragility. A lateral spine x-ray (Answer D) is recommended because it can help identify vertebral fractures, which are concerning in a young patient with multiple fractures.",
-  "reference": "MAIN CONCLUSIONS: The armamentarium to treat pediatric osteoporosis is still limited.",
   "volume": 2021,
   "chapterNo": "27",
   "title": "When to Worry and What to Do",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_27_When_to_Worry_and_What_to_Do.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Bone Health Evaluation of Adolescent Patients",
+      "question": "For a 14-year-old girl with primary amenorrhea and multiple stress fractures, which evaluation is most appropriate?",
+      "options": [
+        "DXA of spine and hip",
+        "DXA of whole body and spine",
+        "Prolactin, LH, FSH, estradiol, and 25-hydroxyvitamin D measurements and celiac screen",
+        "Lateral spine x-ray",
+        "Serum pregnancy test"
+      ],
+      "correctOption": 2,
+      "explanation": "The best next step in her evaluation is to perform Prolactin, LH, FSH, estradiol, and 25-hydroxyvitamin D measurements and celiac screen (Answer C). This aligns with the clinical scenario described where she has a history of multiple stress fractures, chronic energy deficits, and hypogonadism. The DXA evaluation is typically performed for whole-body and spine BMD values rather than just spine and hip (Answer A), which is not specified as the best option in this context. Lateral spine x-ray (Answer D) is not indicated unless there are specific concerns about spinal alignment or curvature. Serum pregnancy test (Answer E) is not appropriate given her age and history.",
+      "reference": "\"DXA of whole body and spine would be preferred over DXA of spine and hip, as the latter does not provide information on the entire skeleton.\"",
+      "id": "e21-27-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Bone Fragility in Childhood",
+      "question": "Why is early identification and treatment of bone fragility crucial during childhood?",
+      "answer": "Because the foundation for lifetime bone strength is established in the first 2 decades, and early intervention can prevent fractures not only in childhood but throughout later life.",
+      "keyPoints": [
+        "The gains in peak bone strength during childhood have a significant impact on an individual's lifetime fracture risk.",
+        "Early identification allows for timely treatment to mitigate potential long-term health consequences."
+      ],
+      "reference": "MAIN CONCLUSIONS: 'The foundation for lifetime bone strength is established in the first 2 decades. Each 10% (1 SD) gain in peak bone strength has been estimated to reduce an individual's lifetime fracture risk by 50%.'",
+      "id": "e21-27-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnosis of pediatric osteoporosis",
+      "question": "How is pediatric osteoporosis diagnosed according to the clinical recommendations?",
+      "answer": "The diagnosis of pediatric osteoporosis has been restricted by a panel of pediatric bone experts to those with a significant fracture history, despite improvements in imaging techniques such as DXA, peripheral quantitative CT, and high-resolution peripheral quantitative CT.",
+      "keyPoints": [
+        "Diagnosis is based on a significant fracture history rather than solely on bone density measurements",
+        "Imaging methods have limitations and are not perfect predictors of fracture risk"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"The panel of pediatric bone experts recommended that the diagnosis of pediatric osteoporosis be restricted to those with a significant fracture history. The armamentarium to treat pediatric osteoporosis is still limited.\"",
+      "id": "e21-27-how1"
+    }
+  ]
 }

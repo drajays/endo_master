@@ -504,8 +504,8 @@
           "id": "e21-20",
           "no": "20",
           "title": "Pharmacologic Approaches to the Patient With Nonalcoholic Fatty Liver Disease",
-          "file": null,
-          "status": "pending"
+          "file": "endo2021_chapter_20_Pharmacologic_Approaches_to_the_Patient_With_Nonalcoholic_Fatty_Liver_Disease.json",
+          "status": "ready"
         },
         {
           "id": "e21-21",
@@ -644,29 +644,29 @@
           "id": "e21-40",
           "no": "40",
           "title": "Management of Thyroid Dysfunction Before and During Pregnancy",
-          "file": null,
-          "status": "pending"
+          "file": "endo2021_chapter_40_Management_of_Thyroid_Dysfunction_Before_and_During_Pregnancy.json",
+          "status": "ready"
         },
         {
           "id": "e21-41",
           "no": "41",
           "title": "The EndocrinologyOncology InterfaceHow Do We Help Each Other",
-          "file": null,
-          "status": "pending"
+          "file": "endo2021_chapter_41_The_EndocrinologyOncology_InterfaceHow_Do_We_Help_Each_Other.json",
+          "status": "ready"
         },
         {
           "id": "e21-42",
           "no": "42",
           "title": "How to Screen and Treat",
-          "file": null,
-          "status": "pending"
+          "file": "endo2021_chapter_42_How_to_Screen_and_Treat.json",
+          "status": "ready"
         },
         {
           "id": "e21-43",
           "no": "43",
           "title": "The EndocrinologyPsychiatry InterfaceHow Do We Help Each Other",
-          "file": null,
-          "status": "pending"
+          "file": "endo2021_chapter_43_The_EndocrinologyPsychiatry_InterfaceHow_Do_We_Help_Each_Other.json",
+          "status": "ready"
         }
       ]
     },

@@ -1,22 +1,51 @@
 {
   "id": "e21-18",
-  "type": "mcq",
-  "subtopic": "GCK-MODY management during pregnancy",
-  "question": "In pregnancies affected by GCK-MODY, which of the following is the best approach for initiating insulin therapy?",
-  "options": [
-    "Early initiation of insulin therapy will reduce fetal macrosomia and has not been associated with adverse effects",
-    "Initiation of insulin therapy should be based on second-trimester maternal glycemia",
-    "Initiation of insulin therapy should be based on second-trimester fetal growth",
-    "Fetal genotype should be assessed by amniocentesis or chorionic villus sampling to guide decisions on insulin therapy"
-  ],
-  "correctOption": 3,
-  "explanation": "In pregnancies affected by GCK-MODY, the risk of fetal macrosomia is based on whether the fetus inherits the heterozygous GCK pathogenic variant from the mother. If the fetus carries a heterozygous GCK pathogenic variant, it will sense mother's mildly elevated blood glucose levels as normal and grow normally. If the fetus does not carry the heterozygous GCK pathogenic variant, it is at risk for macrosomia.",
-  "reference": "\"Genetic diagnosis of certain forms of monogenic diabetes is clinically actionable, allowing therapy selection based on the genetic cause. Permanent neonatal diabetes owing to pathogenic variants in KCNJ11 or ABCC8, the genes encoding the ATP-sensitive potassium channel in the β cell, respond to high-dosage sulfonylureas with excellent glycemic control and improvement in neurologic outcomes. Those with transient neonatal diabetes often have relapse of diabetes in adolescence or early adulthood. Relapse of transient neonatal diabetes due to 6q24 abnormalities can be treated with low doses of sulfonylureas.\"",
   "volume": 2021,
   "chapterNo": "18",
   "title": "Practical Approaches to the Genetic Diagnosis and Management of Patients With Diabetes Mellitus",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_18_Practical_Approaches_to_the_Genetic_Diagnosis_and_Management_of_Patients_With_Diabetes_Mellitus.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Management of Monogenic Diabetes During Pregnancy",
+      "question": "For a woman with GCK-MODY planning to conceive this year, which recommendation should you provide regarding insulin therapy during pregnancy?",
+      "options": [
+        "Early initiation of insulin therapy will reduce fetal macrosomia and has not been associated with adverse effects",
+        "Initiation of insulin therapy should be based on second-trimester maternal glycemia",
+        "Initiation of insulin therapy should be based on second-trimester fetal growth",
+        "Fetal genotype should be assessed by amniocentesis or chorionic villus sampling to guide decisions on insulin therapy",
+        "Insulin therapy is not needed in pregnancies affected by GCK-MODY"
+      ],
+      "correctOption": 2,
+      "explanation": "The correct answer is C. Initiation of insulin therapy should be based on second-trimester fetal growth. Current recommendations advise to consider insulin therapy if fetal abdominal circumference is rising disproportionately above the 75th percentile (option C). For most cases where fetal genotype is not known, it can be inferred based on second-trimester fetal growth on ultrasonography. While there is some debate in the literature, the largest consensus on management of GCK-MODY in pregnancy is to base therapy on known or suspected fetal genotype. Amniocentesis or chorionic villus sampling for the sole purpose of assessing fetal genotype for a heterozygous GCK pathogenic variant (option D) is not recommended due to the risk of pregnancy loss.",
+      "reference": "\"Fetal genotype should be assessed by amniocentesis or chorionic villus sampling to guide decisions on insulin therapy\"",
+      "id": "e21-18-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Monogenic Diabetes Diagnosis",
+      "question": "Why should clinicians consider monogenic diabetes at the initial diabetes classification?",
+      "answer": "Because accurate diagnosis through genetic testing directs treatment and management, identifies affected and at-risk family members, and may improve glycemic control and outcomes.",
+      "keyPoints": [
+        "Clinicians should consider monogenic diabetes at initial diabetes classification to ensure timely diagnosis",
+        "Genetic testing can direct appropriate treatment and identify affected and at-risk family members"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"While monogenic diabetes represents an uncommon form of diabetes, accurate diagnosis through genetic testing directs treatment and management and identifies affected and at-risk family members. Several clinical and laboratory features can help identify a patient highly likely to have monogenic diabetes, who should be referred for genetic testing. These include negative pancreatic autoantibodies and continued endogenous insulin production more than 3 years after diabetes diagnosis. The most common forms of monogenic diabetes have gene-directed therapies that may improve glycemic control and outcomes. This includes sulfonylureas for K-ATP channel-related neonatal diabetes, relapsed 6q24 neonatal diabetes, HNF1A-MODY, and HNF4A-MODY. GCK-MODY does not need treatment outside of pregnancy. In pregnancies affected by GCK-MODY, treatment is based on fetal genotype. HNF1B-MODY most often requires insulin therapy, but accurate diagnosis can allow for surveillance and management of the renal and other extra-pancreatic features that are a common manifestation of heterozygous HNF1B pathogenic variants. Clinicians must consider monogenic diabetes at initial diabetes classification to ensure timely diagnosis and appropriate treatment to improve diabetes outcomes.\"",
+      "id": "e21-18-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step for monogenic diabetes",
+      "question": "How can clinicians identify a patient highly likely to have monogenic diabetes?",
+      "answer": "Clinicians can identify a patient highly likely to have monogenic diabetes by looking for specific clinical and laboratory features, such as negative pancreatic autoantibodies and continued endogenous insulin production more than 3 years after the onset of diabetes. These features help guide further diagnostic steps towards genetic testing.",
+      "keyPoints": [
+        "Negative pancreatic autoantibodies are a key feature in identifying monogenic diabetes.",
+        "Continued endogenous insulin production for more than 3 years post-diagnosis is another indicator."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"While monogenic diabetes represents an uncommon form of diabetes, accurate diagnosis through genetic testing directs treatment and management and identifies affected and at-risk family members. Several clinical and laboratory features can help identify a patient highly likely to have monogenic diabetes, who should be referred for genetic testing. These include negative pancreatic autoantibodies and continued endogenous insulin production more than 3 years after diabetes diagnosis. The most common forms of monogenic diabetes have gene-directed therapies that may improve glycemic control and outcomes. This includes sulfonylureas for K-ATP channel-related neonatal diabetes, relapsed 6q24 neonatal diabetes, HNF1A-MODY, and HNF4A-MODY. GCK-MODY does not need treatment outside of pregnancy. In pregnancies affected by GCK-MODY, treatment is based on fetal genotype. HNF1B-MODY most often requires insulin therapy, but accurate diagnosis can allow for surveillance and management of the renal and other extra-pancreatic features that are a common manifestation of heterozygous HNF1B pathogenic variants. Clinicians must consider monogenic diabetes at initial diabetes classification to ensure timely diagnosis and appropriate treatment to improve diabetes outcomes.\"",
+      "id": "e21-18-how1"
+    }
+  ]
 }

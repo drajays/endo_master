@@ -1,23 +1,131 @@
 {
   "id": "e21-30",
-  "type": "mcq",
-  "subtopic": "Evaluation and Management of Youth-Onset Type 2 Diabetes Mellitus",
-  "question": "Given the length of time since her original diagnosis, which investigation is most important next step in this patient's evaluation?",
-  "options": [
-    "<Option A> Fasting lipid panel",
-    "<Option B> Fasting and stimulated C-peptide measurements",
-    "<Option C> Home glucose measurements",
-    "<Option D> Liver enzyme measurements",
-    "<Option E> Pancreatic autoantibody measurements"
-  ],
-  "correctOption": 4,
-  "explanation": "The patient has had diabetes for three years without severe metabolic decompensation off treatment. The presence of positive antibodies, regardless of phenotype, is associated with more rapid progression to insulin requirement and patients with positive antibodies should be treated with insulin regardless of how they are doing on oral therapy.",
-  "reference": "MAIN CONCLUSIONS: 'The presence of antibodies predicts rapid development of insulin requirement, as well as risk for development of other autoimmune disorders. Diabetes autoantibody testing also should also be considered in overweight/obese pubertal children with a clinical picture of T1DM (weight loss, ketosis/ketoacidosis), some of whom may have T2DM and be able to be weaned off of insulin for extended periods of time.'",
   "volume": 2021,
   "chapterNo": "30",
   "title": "YouthOnset Type 2 Diabetes Mellitus",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_30_YouthOnset_Type_2_Diabetes_Mellitus.md",
-  "items": []
+  "items": [
+    {
+      "diagnosis": {
+        "type_of_diabetes": "Type 2 Diabetes",
+        "age_group": "Adolescents and young adults",
+        "ethnicity": "African-American adolescents"
+      },
+      "clinical_features": {
+        "acute_complications": [
+          "Diabetic ketoacidosis"
+        ],
+        "chronic_complications": [
+          "Acute and chronic complications of type 2 diabetes mellitus in children and adolescents",
+          "High burden of kidney disease in youth-onset type 2 diabetes"
+        ]
+      },
+      "management_guidelines": [
+        {
+          "therapy_type": "Oral antidiabetic therapy",
+          "specific_drugs": [
+            "Metformin"
+          ],
+          "rationale": "Metformin monotherapy in youth with recent onset type 2 diabetes: experience from the prerandomization run-in phase of the TODAY study"
+        },
+        {
+          "therapy_type": "Insulin therapy",
+          "specific_drugs": [
+            "Liraglutide",
+            "Canagliflozin"
+          ],
+          "rationale": [
+            "Liraglutide in children and adolescents with type 2 diabetes (Ellipse Trial)",
+            "Empagliflozin and progression of kidney disease in type 2 diabetes",
+            "Canagliflozin and renal outcomes in type 2 diabetes"
+          ]
+        },
+        {
+          "therapy_type": "SGLT-2 inhibitors",
+          "specific_drugs": [
+            "Empagliflozin",
+            "Canagliflozin"
+          ],
+          "rationale": [
+            "Empagliflozin and progression of kidney disease in type 2 diabetes",
+            "Canagliflozin and renal outcomes in type 2 diabetes"
+          ]
+        },
+        {
+          "therapy_type": "Mineralocorticoid receptor antagonists",
+          "specific_drugs": [
+            "Finerenone"
+          ],
+          "rationale": [
+            "Effect of finerenone on chronic kidney disease outcomes in type 2 diabetes (FIDELIO-DKD)"
+          ]
+        }
+      ],
+      "management_guidelines_summary": {
+        "Oral antidiabetic therapy": "Metformin monotherapy",
+        "Insulin therapy": "Liraglutide, Canagliflozin",
+        "SGLT-2 inhibitors": "Empagliflozin, Canagliflozin",
+        "Mineralocorticoid receptor antagonists": "Finerenone"
+      },
+      "management_guidelines_priority": [
+        {
+          "therapy_type": "Insulin therapy",
+          "specific_drugs": [
+            "Liraglutide",
+            "Canagliflozin"
+          ],
+          "priority_level": 1
+        },
+        {
+          "therapy_type": "SGLT-2 inhibitors",
+          "specific_drugs": [
+            "Empagliflozin",
+            "Canagliflozin"
+          ],
+          "priority_level": 2
+        },
+        {
+          "therapy_type": "Mineralocorticoid receptor antagonists",
+          "specific_drugs": [
+            "Finerenone"
+          ],
+          "priority_level": 3
+        }
+      ],
+      "id": "e21-30-q1",
+      "type": "mcq",
+      "options": [
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctOption": 0
+    },
+    {
+      "type": "why",
+      "subtopic": "Management of Youth-Onset Type 2 Diabetes Mellitus (T2DM)",
+      "question": "Why are currently approved medications for youth-onset T2DM limited?",
+      "answer": "Because the management options for youth-onset T2DM are limited due to the complexity and severity of the disease, as well as its rapid progression.",
+      "keyPoints": [
+        "Youth-onset T2DM is characterized by progressive β-cell injury and insulin resistance",
+        "The condition carries higher risk and earlier onset of severe complications such as heart disease, diabetic kidney disease, and fatty liver disease"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Youth-onset T2DM is a complex metabolic disorder characterized by progressive β-cell injury and insulin resistance. With the rapidly rising number of obese adolescents with T2DM, it is critical to check pancreatic autoantibodies in the workup of youth-onset T2DM. Compared with T1DM, youth-onset T2DM also carries higher risk and earlier onset of severe complications, such as heart disease, diabetic kidney disease, and fatty liver disease. Options for management are limited and have been largely understudied in youth-onset T2DM. Currently FDA-approved medications include insulin, metformin, and liraglutide.\"",
+      "id": "e21-30-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step",
+      "question": "How should pancreatic autoantibodies be checked in the workup of youth-onset T2DM?",
+      "answer": "Pancreatic autoantibodies, such as insulin antibodies and glutamic acid decarboxylase (GAD) antibodies, can be checked to help diagnose youth-onset type 2 diabetes mellitus (T2DM). These autoantibodies are more commonly found in youth-onset T2DM compared to type 1 diabetes mellitus (T1DM), which aids in the differential diagnosis between these two conditions.",
+      "keyPoints": [
+        "Pancreatic autoantibodies can be used as a diagnostic tool for youth-onset T2DM.",
+        "Their presence is more indicative of youth-onset T2DM compared to T1DM."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Youth-onset T2DM is a complex metabolic disorder characterized by progressive β-cell injury and insulin resistance. With the rapidly rising number of obese adolescents with T2DM, it is critical to check pancreatic autoantibodies in the workup of youth-onset T2DM.\"",
+      "id": "e21-30-how1"
+    }
+  ]
 }

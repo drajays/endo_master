@@ -1,22 +1,50 @@
 {
   "id": "e21-36",
-  "type": "mcq",
-  "subtopic": "Secondary Hypogonadism and Gonadotropin Therapy",
-  "question": "A 38-year-old man has been on testosterone replacement therapy for delayed puberty. He now presents with azoospermia. Which of the following statements is correct regarding his case?",
-  "options": [
-    "Prior testosterone therapy impairs chance of successful sperm induction in men with hypogonadism",
-    "The goal should be a sperm count in the World Health Organization reference range (15 million/mL) to achieve spontaneous pregnancy",
-    "Pretreatment with 6 months of FSH will increase sperm count more when compared with starting treatment with hCG or GnRH",
-    "He should be counseled about the risk of gynecomastia when starting hCG therapy"
-  ],
-  "correctOption": 3,
-  "explanation": "The correct answer is that he should be counseled about the risk of gynecomastia when starting hCG therapy. Testosterone therapy does not significantly reduce the effectiveness of sperm induction for hypogonadotropic hypogonadism, and couples can become pregnant with sperm counts much lower than the World Health Organization reference range. Pretreatment with FSH will not increase sperm count more compared to starting treatment with hCG or GnRH.",
-  "reference": "Recent meta-analyses suggest that testosterone therapy does not significantly reduce the effectiveness of sperm induction for hypogonadotropic hypogonadism (thus, Answer A is incorrect). Couples can become pregnant with sperm counts much lower than the World Health Organization reference range (thus, Answer B is incorrect). A recent article gested that recombinant FSH pretreatment by aid seminiferous tubule development. No significant increase in sperm count was observed in this small body (thus, Answer C is incorrect). hCG may cause gynecomastia in a minority of cases, which occasionally be irreversible and disfiguring.",
   "volume": 2021,
   "chapterNo": "36",
   "title": "Evaluation of Male Infertility",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_36_Evaluation_of_Male_Infertility.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Testosterone Therapy and Its Effects",
+      "question": "For a man on long-term testosterone replacement therapy who wishes to start a family, which of the following statements is correct regarding his chances of successful sperm induction?",
+      "options": [
+        "Prior testosterone therapy impairs chance of successful sperm induction in men with hypogonadism",
+        "The goal should be a sperm count in the World Health Organization reference range (15 million/mL) to achieve spontaneous pregnancy",
+        "Pretreatment with 6 months of FSH will increase sperm count more when compared with starting treatment with hCG or GnRH",
+        "He should be counseled about the risk of gynecomastia when starting hCG therapy"
+      ],
+      "correctOption": 3,
+      "explanation": "The correct answer is D. He should be counseled about the risk of gynecomastia when starting hCG therapy. Recent meta-analyses suggest that testosterone therapy does not significantly reduce the effectiveness of sperm induction for hypogonadotropic hypogonadism (Answer A is incorrect). The goal for successful pregnancy in men with azoospermia due to hypogonadism is often set at a lower threshold than the World Health Organization reference range, as spontaneous pregnancy can occur with sperm counts much lower than this (Answer B is incorrect). There is no evidence that pretreatment with FSH improves sperm count more than starting treatment with hCG or GnRH (Answer C is incorrect), and while gynecomastia may occur in some cases of hCG therapy, it is not a significant risk compared to the benefits of increasing sperm production (Answer D is correct).",
+      "reference": "\"Recent meta-analyses suggest that testosterone therapy does not significantly reduce the effectiveness of sperm induction for hypogonadotropic hypogonadism\"",
+      "id": "e21-36-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Male Infertility Classification and Management",
+      "question": "Why is microsurgical testicular sperm extraction (mTESE) used in the management of nonobstructive azoospermia (NOA)?",
+      "answer": "Because mTESE is a successful method for retrieving sperm in up to 20% to 40% of men with NOA, including those with Klinefelter syndrome, and it provides an option for assisted reproductive technologies.",
+      "keyPoints": [
+        "mTESE is effective in retrieving sperm from approximately 20-40% of men with nonobstructive azoospermia (NOA)",
+        "It can be particularly beneficial for men with Klinefelter syndrome"
+      ],
+      "reference": "MAIN CONCLUSIONS: 'Microsurgical testicular perm extraction (mTESE) is used to successfully etrieve sperm in 20% to 40% of men with NOA, including men with Klinefelter syndrome.'",
+      "id": "e21-36-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "Diagnosis and Management of Male Infertility",
+      "question": "How is microsurgical testicular sperm extraction (mTESE) used in the management of nonobstructive azoospermia (NOA)?",
+      "answer": "Microsurgical testicular sperm extraction (mTESE) is a procedure used to retrieve sperm from men with nonobstructive azoospermia (NOA). It involves making small incisions in the scrotum and using microscopic techniques to remove tissue containing viable sperm. The success rate of mTESE varies, but it can be successful in 20% to 40% of cases, including for men with Klinefelter syndrome.",
+      "keyPoints": [
+        "mTESE is used to retrieve sperm from men with nonobstructive azoospermia (NOA)",
+        "The success rate of mTESE can be as high as 20-40%"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Microsurgical testicular sperm extraction (mTESE) is used to successfully etrieve sperm in 20% to 40% of men with NOA, including men with Klinefelter syndrome.\"\n",
+      "id": "e21-36-how1"
+    }
+  ]
 }

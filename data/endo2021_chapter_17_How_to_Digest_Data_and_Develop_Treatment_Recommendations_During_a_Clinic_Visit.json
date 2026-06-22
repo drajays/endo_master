@@ -1,22 +1,50 @@
 {
   "id": "e21-17",
-  "type": "mcq",
-  "subtopic": "Sensor-Pump Interactions: Toward 'Closing the Loop'",
-  "question": "In which scenario would moving her NPH insulin to the morning be the best next step for a pregnant woman with type 2 diabetes?",
-  "options": [
-    "Continue the regimen; her time in range is 88%",
-    "Reduce her dosage of NPH; her time below range is 9%",
-    "Move her NPH insulin to the morning",
-    "Re-introduce metformin"
-  ],
-  "correctOption": 2,
-  "explanation": "The patient's overnight glucose levels are within target, but her postlunch blood glucose values are elevated. Moving her NPH insulin to the morning would help ensure that she has sufficient basal coverage during the night and reduce the likelihood of hypoglycemia in the morning.",
-  "reference": "MAIN CONCLUSIONS: The patient's overnight glucose levels are on the low side, but still within target range. Adding metformin might decrease the overnight glucose values even further.",
   "volume": 2021,
   "chapterNo": "17",
   "title": "How to Digest Data and Develop Treatment Recommendations During a Clinic Visit",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_17_How_to_Digest_Data_and_Develop_Treatment_Recommendations_During_a_Clinic_Visit.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Continuous Glucose Monitoring (CGM) and Closed-Loop Systems in Pregnancy",
+      "question": "For a pregnant patient with type 2 diabetes, which of the following is the best next step based on her sensor download data?",
+      "options": [
+        "Continue the regimen; her time in range is 88%",
+        "Reduce her dosage of NPH insulin; her time below range is 9%",
+        "Move her NPH insulin to the morning",
+        "Re-introduce metformin"
+      ],
+      "correctOption": 2,
+      "explanation": "The best next step for a pregnant patient with type 2 diabetes, based on her sensor download data showing elevated postlunch blood glucose levels and persistently low overnight glucose values, is to move her NPH insulin to the morning. This adjustment addresses the issue of inadequate insulin early after meals (Answer D) and still allows her time in range to remain within target range.",
+      "reference": "\"Move her NPH insulin to the morning\"",
+      "id": "e21-17-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Hybrid Closed-Loop Pumps",
+      "question": "Why is regulating postmeal glucose concentrations still a challenge with the use of hybrid closed-loop pumps?",
+      "answer": "Because although hybrid closed-loop pumps have improved glycemic control, they do not fully address the variability in postmeal glucose levels that can occur when patients consume mixed meals.",
+      "keyPoints": [
+        "Hybrid closed-loop pumps enhance overall diabetes management but struggle with precise regulation of postprandial glucose",
+        "Mixed meals often lead to unpredictable glucose responses despite pump technology"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Use of sensors, smart pumps, and hybrid closed-loop pumps has improved diabetes control. With the use of hybrid closed-loop pumps, despite the improvement in glycemic control, regulating postmeal glucose concentrations is still a challenge. Counting carbohydrates facilitates bolus calculation, but it is an imperfect and unsatisfactory tool when patients eat a mixed meal. Metrics have been developed to assess diabetes control that aid in making adjustments to regimens and interpreting pump downloads.\"",
+      "id": "e21-17-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "Monitoring Approaches for Postmeal Glucose Control",
+      "question": "How do metrics help in adjusting insulin regimens based on postmeal glucose concentrations?",
+      "answer": "Metrics developed to assess diabetes control aid in making adjustments to insulin regimens by providing real-time data on blood glucose levels, particularly after meals. These metrics can include continuous glucose monitoring (CGM) data and other glycemic indices that track the effectiveness of insulin therapy over time. By analyzing these metrics, clinicians can identify patterns or deviations from target ranges, which help in determining whether adjustments to basal or bolus insulin doses are needed to better control postmeal glucose concentrations.",
+      "keyPoints": [
+        "Metrics provide real-time data on blood glucose levels after meals",
+        "Clinicians use this information to adjust insulin regimens as necessary"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Metrics have been developed to assess diabetes control that aid in making adjustments to regimens and interpreting pump downloads.\"\nThese metrics include continuous glucose monitoring (CGM) data and other glycemic indices that track the effectiveness of insulin therapy over time, helping clinicians identify patterns or deviations from target ranges.",
+      "id": "e21-17-how1"
+    }
+  ]
 }

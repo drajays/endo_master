@@ -1,6 +1,4 @@
 {
-  "diagnosis": "Nutritional osteomalacia",
-  "rationales": 1.1,
   "id": "e21-14",
   "volume": 2021,
   "chapterNo": "14",
@@ -8,5 +6,42 @@
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_14_Is_There_an_Ideal_Vitamin_D_Level_and_Dosage_for_All_Circumstances.md",
-  "items": []
+  "items": [
+    {
+      "question": "Does vitamin D decrease the risk of COVID-19-related adverse outcomes?",
+      "answer": "D) No evidence available",
+      "id": "e21-14-q1",
+      "type": "mcq",
+      "options": [
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctOption": 0
+    },
+    {
+      "type": "why",
+      "subtopic": "vitamin d supplementation in pregnancy",
+      "question": "Why does vitamin D given in pregnancy reduce the risk of certain complications?",
+      "answer": "Because vitamin D given in pregnancy may reduce the risk of preeclampsia (± calcium), gestational diabetes, low neonatal birth weight (<2500 g), and severe postpartum bleeding.",
+      "keyPoints": [
+        "Vitamin D supplementation during pregnancy can reduce the risk of certain complications such as preeclampsia, gestational diabetes, low birth weight, and postpartum bleeding.",
+        "The exact mechanism by which vitamin D reduces these risks is not fully understood but may involve its role in maintaining calcium homeostasis and reducing inflammation."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Vitamin D given in pregnancy probably reduces the risk of preeclampsia (± calcium), gestational diabetes, low neonatal birth weight (<2500 g), and severe postpartum bleeding.\"",
+      "id": "e21-14-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "vitamin d supplementation in pregnancy",
+      "question": "How does vitamin D supplementation during pregnancy reduce the risk of certain complications?",
+      "answer": "Vitamin D supplementation during pregnancy is associated with a reduced risk of preeclampsia, gestational diabetes, low neonatal birth weight (<2500 g), and severe postpartum bleeding. This effect may be mediated by vitamin D's role in maintaining normal calcium homeostasis and reducing inflammation, which are crucial for the health of both mother and fetus during pregnancy.",
+      "keyPoints": [
+        "Vitamin D supplementation reduces the risk of preeclampsia, gestational diabetes, low neonatal birth weight, and severe postpartum bleeding in pregnant women.",
+        "The mechanism involves maintaining normal calcium homeostasis and reducing inflammation."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Vitamin D given in pregnancy probably reduces the risk of preeclampsia (± calcium), gestational diabetes, low neonatal birth weight (<2500 g), and severe postpartum bleeding.\"\n",
+      "id": "e21-14-how1"
+    }
+  ]
 }

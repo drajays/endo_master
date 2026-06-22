@@ -1,22 +1,50 @@
 {
   "id": "e21-28",
-  "type": "mcq",
-  "subtopic": "Central Diabetes Insipidus in Children",
-  "question": "In a child with central diabetes insipidus, which of the following statements is true regarding the diagnosis and treatment?",
-  "options": [
-    "A. A low copeptin concentration would establish the diagnosis of DI of any cause",
-    "B. A water-deprivation study is indicated but should be done on an inpatient basis",
-    "C. Therapy with desmopressin can be initiated",
-    "D. Serum and urine osmolality should be measured"
-  ],
-  "correctOption": 2,
-  "explanation": "The correct answer is C: Therapy with desmopressin can be initiated. This child has a calculated serum osmolality already above 304 mOsm/kg (twice the sodium), plus the additional component from the glucose (5 mOsm/kg). This finding, coupled with the urine, establishes the diagnosis of DI. A low copeptin concentration in the face of hyperosmolality might imply central DI (Answer A); however, this remains to be proven in children. In addition, it would be a test only for central DI, not nephrogenic DI.",
-  "reference": "MAIN CONCLUSIONS: \"The main treatment is desmopressin. Desmopressin was introduced in the 1970s and remains the main treatment. Desmopressin is a synthetic analogue of the hormone 8-arginine AVP and has a longer half-life than AVP. The antidiuretic action is more specific than that of AVP, and it has less pressor activity.\"",
   "volume": 2021,
   "chapterNo": "28",
   "title": "diabetes Insipidus in Children",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_28_diabetes_Insipidus_in_Children.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Diabetes Insipidus in Children",
+      "question": "Which of the following is true regarding the diagnosis of central DI in this patient?",
+      "options": [
+        "A. A low copeptin concentration would establish the diagnosis of DI of any cause",
+        "B. A water-deprivation study is indicated but should be done on an inpatient basis",
+        "C. Therapy with desmopressin can be initiated",
+        "D. Serum and urine osmolality should be measured"
+      ],
+      "correctOption": 2,
+      "explanation": "The correct answer is C: Therapy with desmopressin can be initiated. This patient has a calculated serum osmolality already above 304 mOsm/kg (twice the sodium), plus the additional component from the glucose (5 mOsm/kg). This finding, coupled with the urine, establishes the diagnosis of DI. A low copeptin concentration in the face of hyperosmolality might imply central DI (Answer A); however, this remains to be proven in children. In addition, it would be a test only for central DI, not nephrogenic DI. The main point of this vignette is to show that sometimes water-deprivation study (Answer B) is not needed, as the diagnosis is already established. The calculated osmolality is well above 305 mOsm/kg. It would have been nice to measure the osmolality (Answer D), but the diagnosis of DI is already established. This patient could have nephrogenic DI, so a trial of desmopressin and MRI there is a response to desmopressin should be next steps.",
+      "reference": "\"The main point of this vignette is to show that sometimes water-deprivation study (Answer B) is not needed, as the diagnosis is already established. The calculated osmolality is well above 305 mOsm/kg. It would have been nice to measure the osmolality Answer D), but the diagnosis of DI is already established. This patient could have nephrogenic DI, so a trial of desmopressin and MRI there is a response to desmopressin should be next steps.\"",
+      "id": "e21-28-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Diabetes Insipidus Diagnosis",
+      "question": "Why should a urine osmolality threshold of at least 750 mOsm/kg be used to assess the possibility of Diabetes Insipidus (DI) when there is clinical suspicion for DI?",
+      "answer": "Because using a urine osmolality threshold of at least 750 mOsm/kg helps in distinguishing between patients with central DI and those who may have partial DI, as some initial cases might fall within the range of 600 to 750 mOsm/kg. This approach ensures more accurate diagnosis and appropriate treatment planning.",
+      "keyPoints": [
+        "A urine osmolality threshold of at least 750 mOsm/kg is used to differentiate between central DI and partial DI",
+        "Some initial cases with a urine osmolality between 600 to 750 mOsm/kg may be diagnosed as having partial DI"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"In clinical practice, it has been observed that some patients whose initial urine osmolality is between these values are subsequently diagnosed with partial DI. Thus, it is advised to use a urine osmolality threshold of at least 750 mOsm/kg to assess the possibility of DI when there is clinical suspicion for disease.\"",
+      "id": "e21-28-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step",
+      "question": "How is the diagnosis of diabetes insipidus confirmed in children with polyuria and polydipsia?",
+      "answer": "The diagnosis of diabetes insipidus (DI) in children with polyuria and polydipsia can be confirmed by measuring serum osmolality and urine osmolality. If the serum osmolality exceeds 300 mOsm/kg while the urine osmolality is less than 300 mOsm/kg, this confirms the diagnosis of DI. Additionally, it is advised to use a urine osmolality threshold of at least 750 mOsm/kg to assess the possibility of DI when there is clinical suspicion for disease.",
+      "keyPoints": [
+        "Serum osmolality exceeding 300 mOsm/kg and urine osmolality less than 300 mOsm/kg confirm the diagnosis of diabetes insipidus (DI).",
+        "A urine osmolality threshold of at least 750 mOsm/kg is used to assess the possibility of DI when there is clinical suspicion for disease."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"The most common causes are idiopathic (likely hypophysitis), tumor, histiocytosis, germ-cell tumors, structural defects, and congenital (genetic) defects. Once the diagnosis of central DI is established, an organized approach to diagnosing the cause is crucial. The most common causes are idiopathic (likely hypophysitis), tumor, histiocytosis, germ-cell tumors, structural defects, and congenital (genetic) defects. Treatment may involve ensuring specific water intake, desmopressin (oral, intranasal, or subcutaneous formulations), and occasionally diuretics.\"",
+      "id": "e21-28-how1"
+    }
+  ]
 }

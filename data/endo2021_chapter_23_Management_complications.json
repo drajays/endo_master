@@ -1,22 +1,51 @@
 {
   "id": "e21-23",
-  "type": "mcq",
-  "subtopic": "Management of complications in acromegaly",
-  "question": "Which complication is most likely to improve with biochemical control of GH and IGF-1 levels?",
-  "options": [
-    "A. Diabetes mellitus",
-    "B. Arthropathy",
-    "C. Vertebral fractures",
-    "D. Sleep apnea"
-  ],
-  "correctOption": 0,
-  "explanation": "Biochemical control of acromegaly reduces the severity or prevalence of most complications, including diabetes (Answer A). While arthropathy (Answer B) and vertebral fractures (Answer C) may improve with biochemical control, sleep apnea (Answer D) often persists despite biochemical control.",
-  "reference": "\"Complications of surgery generally occur early, whereas those associated with radiation therapy (hypopituitarism, second malignancies, vascular disease) usually take a number of years to be realized.\"",
   "volume": 2021,
   "chapterNo": "23",
   "title": "Management complications",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_23_Management_complications.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Endocrinology - Acromegaly Management",
+      "question": "After achieving biochemical control of acromegaly with transsphenoidal adenomectomy, which complication is most likely to improve?",
+      "options": [
+        "Diabetes mellitus",
+        "Arthropathy",
+        "Vertebral fractures",
+        "Sleep apnea"
+      ],
+      "correctOption": 0,
+      "explanation": "The correct answer is A) Diabetes mellitus. Biochemical control of acromegaly fails to prevent progression of premature degenerative arthropathy (Answer B), which correlates most closely to GH and IGF-1 levels at presentation. The incidence of vertebral fractures (Answer C) does appear to slow with biochemical control; however, the incidence remains greater than expected. Data on sleep apnea (Answer D) are variable, although most studies fail to show resolution of sleep apnea with biochemical control of acromegaly. This most likely reflects that the soft-tissue changes observed in patients with acromegaly frequently remain after achieving biochemical control. The excess GH secretion that defines acromegaly antagonizes insulin action, leading to glucose intolerance and diabetes. With the fall in GH levels, insulin resistance and glucose tolerance improve in almost all patients, with resolution of diabetes in a number of individuals (thus, Answer A is correct).",
+      "reference": "\"Diabetes mellitus\"",
+      "id": "e21-23-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "complications of acromegaly",
+      "question": "Why does biochemical control of GH and IGF-1 levels fail to significantly improve arthropathy in patients with acromegaly?",
+      "answer": "Because arthropathy is a late complication that develops even after achieving biochemical control, likely due to the persistent presence of excess GH and IGF-1 leading to joint instability.",
+      "keyPoints": [
+        "Arthropathy often remains despite biochemical control of GH and IGF-1 levels",
+        "Persistent soft-tissue changes from acromegaly persist post-surgery"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Complications of surgery generally occur early, whereas those associated with radiation therapy (hypopituitarism, second malignancies, vascular disease) usually take a number of years to be realized. Adverse events relating to medical therapy are specific to the medication used and add further complexity to long-term monitoring of patients with acromegaly.\"",
+      "id": "e21-23-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step and monitoring approach for acromegaly complications",
+      "question": "How should the frequency of surveillance regimens be considered in elderly patients with acromegaly?",
+      "answer": "In considering the frequency of surveillance regimens, it is important to individualize them based on patient-specific factors such as age, duration of disease, and response to treatment. For elderly patients or those who achieve remission immediately following primary pituitary surgery, a more simplified and personalized approach may be considered. This involves tailoring the surveillance program to minimize unnecessary testing while still ensuring early recognition and management of complications.",
+      "keyPoints": [
+        "Individualization is essential in considering the frequency of surveillance regimens for acromegaly patients.",
+        "Elderly patients or those achieving remission quickly after surgery may benefit from a simplified surveillance regimen.",
+        "The goal should be to minimize unnecessary testing while ensuring early recognition and management of complications."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"With the plethora of long-term complications of acromegaly, affected individuals require prolonged follow-up and surveillance. Early recognition and aggressive management of complications is essential, although management strategies to reduce the frequency of long-term complications remain the ultimate goal. For a few outcomes (arthropathy, quality of life), management has had less of an impact and future research is needed.'",
+      "id": "e21-23-how1"
+    }
+  ]
 }

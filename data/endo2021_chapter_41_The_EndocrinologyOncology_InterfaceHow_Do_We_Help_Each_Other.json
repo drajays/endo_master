@@ -1,0 +1,26 @@
+{
+  "answer": "Calcium, 700-1000 mg daily,\nand vitamin D, 800 IU daily\nLifestyle advice would include recommendations for exercise, smoking cessation (if applicable), and alcohol use. Screening for secondary causes is recommended. The risks and benefits of treatment with antiresorptive therapy (bisphosphonate vs denosumab) should be discussed with the patient, with particular emphasis on lack of data in young patients in this setting. Other issues to be discussed include the effects of tamoxifen on bone loss in premenopausal women and the measurement of serum estradiol levels in relation to tamoxifen, aromatase inhibitor, and fulvestrant by immunoassay and mass spectrometry.",
+  "id": "e21-41",
+  "volume": 2021,
+  "chapterNo": "41",
+  "title": "The EndocrinologyOncology InterfaceHow Do We Help Each Other",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_41_The_EndocrinologyOncology_InterfaceHow_Do_We_Help_Each_Other.md",
+  "items": [
+    {
+      "type": "mcq",
+      "subtopic": "General",
+      "question": "What is the best management for this patient?",
+      "options": [
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctOption": 0,
+      "explanation": "",
+      "reference": "",
+      "id": "e21-41-q1"
+    }
+  ]
+}

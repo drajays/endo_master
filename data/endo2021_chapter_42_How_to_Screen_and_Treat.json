@@ -1,0 +1,27 @@
+{
+  "id": "e21-42",
+  "volume": 2021,
+  "chapterNo": "42",
+  "title": "How to Screen and Treat",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_42_How_to_Screen_and_Treat.md",
+  "items": [
+    {
+      "type": "mcq",
+      "subtopic": "Screening and Treatment of Endocrine Dysfunction in Immune Checkpoint Inhibitor Therapy",
+      "question": "For a patient with advanced melanoma on immune checkpoint inhibitor therapy who presents with hypotension, confusion, and hyponatremia, what is the immediate priority for management?",
+      "options": [
+        "Measure serum cortisol, aldosterone, and ACTH",
+        "Measure serum cortisol and give intravenous hydrocortisone, 100 mg stat",
+        "Measure urine sodium and urine osmolality",
+        "Order pituitary MRI and measure pituitary antibodies",
+        "Perform a short 250-mcg cosyntropin-stimulation test"
+      ],
+      "correctOption": 1,
+      "explanation": "The patient is likely experiencing hypophysitis, which can lead to secondary adrenal insufficiency. Immediate management should include measuring serum cortisol and administering intravenous hydrocortisone (hydrocortisone) as it addresses the immediate need for hormone replacement therapy.",
+      "reference": "\"Immune checkpoint inhibitors are associated with a range of endocrine adverse effects, including hypophysitis, which can present with hyponatremia and hypotension. Hypophysitis is often secondary to adrenal insufficiency, necessitating prompt treatment with parenteral hydrocortisone.\"",
+      "id": "e21-42-q1"
+    }
+  ]
+}

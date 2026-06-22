@@ -1,11 +1,4 @@
 {
-  "The patient's most likely diagnosis is A: Relative Energy Deficit in Sport (RED-S). This condition can affect men who engage in intense training programs, leading to a relative imbalance between their caloric intake and expenditure. The symptoms include fatigue, declining performance, weight loss, low libido, and hypogonadism.": {
-    "rationale": {
-      "relative_energy_deficit_in_sport_diagnosis": "The patient's history of stepping up his training program while dieting to lose weight is consistent with RED-S. His BMI is within the normal range but lower than expected for an athlete, indicating a relative energy deficit. The elevated serum SHBG concentration and mild anemia are also typical findings in this condition.",
-      "pituitary_adenoma_diagnosis": "While his physical examination did not reveal any signs of a pituitary mass effect, the patient's history is consistent with RED-S rather than a pituitary adenoma. Pituitary imaging should be considered as a diagnosis of exclusion.",
-      "hemochromatosis_diagnosis": "The patient’s iron studies are normal and do not suggest hemochromatosis."
-    }
-  },
   "id": "e21-32",
   "volume": 2021,
   "chapterNo": "32",
@@ -13,5 +6,45 @@
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_32_Diagnosis_and_Management_of_Functional_Hypogonadism_in_the_Male_Patient.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Androgen Deficiency in Middle-Aged Men",
+      "question": "For a middle-aged man presenting with low energy, low libido, and erectile dysfunction despite healthy lifestyle measures, which of the following is the best next step in management?",
+      "options": [
+        "Evaluate for sleep obstructive sleep apnea",
+        "Refer to a dietician to achieve a healthy body weight",
+        "Evaluate for organic HPT axis pathology",
+        "Refer to a psychologist for counseling"
+      ],
+      "correctOption": 2,
+      "explanation": "The correct option is C) Evaluate for organic HPT axis pathology. The patient has clinical findings suggestive of organic pathology (gynecomastia, borderline testicular size), and his serum testosterone levels are frankly low. His visual fields are normal to confrontation, and he does not have any intercurrent illness suggesting temporary HPT axis suppression. Further evaluation of his HPT axis is indicated as the foremost consideration in this case. The patient’s BMI is 29.0 kg/m², which aligns with obesity being a major contributor to his lowered testosterone levels. Obesity can lead to decreased production of sex hormones such as testosterone and increased conversion of testosterone to estrogen via aromatase enzymes in adipose tissue. Therefore, successful weight loss may improve his energy levels and increase circulating testosterone.",
+      "reference": "\"This middle-aged man presents with clinical findings suggestive of organic pathology (gynecomastia, borderline testicular size). His serum testosterone is frankly and repeatedly low. There is no intercurrent illness suggesting temporary HPT axis suppression. He has mild unexplained anemia, which is compatible with androgen deficiency. His clinical presentation should not be attributed to functional hypogonadism, a diagnosis of exclusion. Further evaluation of his HPT axis is indicated (Answer C). Upon further investigation, his LH concentration was 2.4 mIU/L in the face of his repeatedly and frankly low serum testosterone. His prolactin concentration was mildly elevated at 31 ng/mL, suggestive of pituitary stalk effect rather than a prolactin-secreting pituitary. Pituitary imaging demonstrated a 2-cm macroadenoma well away from the optic chiasm, consistent with a nonfunctioning adenoma on further workup.\"",
+      "id": "e21-32-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Functional Hypogonadism in Young Men",
+      "question": "Why is functional hypogonadism observed in young men?",
+      "answer": "Because functional suppression of the male hypothalamic-pituitary-testicular (HPT) axis can occur due to acute or chronic health conditions, which affects both older and younger men.",
+      "keyPoints": [
+        "Functional hypogonadism is a common clinical problem in young men with underlying health conditions",
+        "It can be caused by acute or chronic health issues affecting the HPT axis"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"functional suppression of the male hypothalamic-pituitary-testicular (HPT) axis due to acute or chronic health conditions is a common clinical problem in older men, but it can also occur young men.\"\nFunctional hypogonadism is diagnosis of exclusion and requires careful, individualized assessment to exclude organic agonadism due to anatomic pathology of the axis.\"\nWhile definitive randomized controlled trials are lacking, available evidence suggests that optimizing health (e.g., achieving a healthy body weight, optimizing comorbidities, managing offending medications) can improve gen deficiency-like symptoms and lead to st increase in circulating testosterone.\nNot uncommonly, measures to reverse suppression of the functional HPT axis are difficult to implement successfully and, even if successful, may not be sufficient. In this situation, the question arises as to whether testosterone treatment is appropriate.\"\nWhile recent randomized controlled trials in carefully selected middle-aged and older men have reported short-term effects of testosterone treatment, effects on important long-term health outcomes remain unknown.\nIf testosterone treatment is considered, it should be directed towards men with significant clinical features and persistently low circulating testosterone after exclusion of contraindications and appropriate counseling, with guideline-conforming monitoring for efficacy and adverse effects.\"\n",
+      "id": "e21-32-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step",
+      "question": "How can functional hypogonadism be diagnosed in older men?",
+      "answer": "Functional hypogonadism in older men can be diagnosed through a careful, individualized assessment that includes exclusion of organic agnogenic due to anatomic pathology of the axis. This involves detailed clinical evaluation, laboratory tests for testosterone levels, and possibly imaging studies if necessary.",
+      "keyPoints": [
+        "Careful, individualized assessment is required to diagnose functional hypogonadism in older men",
+        "Exclusion of organic agnogenic due to anatomic pathology should be performed"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"functional suppression of the male hypothalamic-pituitary-testicular (HPT) axis due to acute or chronic health conditions is a common clinical problem in older men, but it can also occur young men. Functional hypogonadism is diagnosis of exclusion and requires careful, individualized assessment to exclude organic agnogenic due to anatomic pathology of the axis.\"",
+      "id": "e21-32-how1"
+    }
+  ]
 }

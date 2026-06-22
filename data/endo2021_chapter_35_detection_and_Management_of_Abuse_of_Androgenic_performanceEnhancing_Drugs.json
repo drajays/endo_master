@@ -1,22 +1,50 @@
 {
   "id": "e21-35",
-  "type": "mcq",
-  "subtopic": "Androgenic PED abuse in muscular men",
-  "question": "A 32-year-old man reports decreased libido, less muscle mass benefit from his weightlifting workouts, and no easy bruisability. He has a normal physical examination except for slightly tender gynecomastia and small testes (15 mL bilaterally). Which of the following is most likely to be low in this patient?",
-  "options": [
-    "Serum testosterone",
-    "Serum FSH",
-    "Serum LH",
-    "Hematocrit"
-  ],
-  "correctOption": 0,
-  "explanation": "Androgens suppress serum testosterone concentrations. The man's physical appearance (muscularity) does not match his low serum testosterone concentration, suggesting androgenic PED abuse.",
-  "reference": "MAIN CONCLUSIONS: Androgenic PEDs are the most commonly abused PEDs in men.",
   "volume": 2021,
   "chapterNo": "35",
   "title": "detection and Management of Abuse of Androgenic performanceEnhancing Drugs",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_35_detection_and_Management_of_Abuse_of_Androgenic_performanceEnhancing_Drugs.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Testosterone Therapy and Androgenic PED Abuse",
+      "question": "Given the patient's history of prolonged use of androgenic PEDs, which additional evaluation would you order now to confirm suspicion of abuse?",
+      "options": [
+        "Serum lipid panel and cortisol-binding globulin measurement",
+        "Serum lipid panel and SHBG measurement",
+        "Serum thyroxine-binding globulin and cortisol-binding globulin measurement",
+        "Screen of urinary metabolites of testosterone and testosterone precursors and known androgenic steroids by mass spectrometry"
+      ],
+      "correctOption": 3,
+      "explanation": "The patient has a discordance between his physical appearance (muscularity) and serum testosterone concentration, which is very low. Androgens suppress serum HDL cholesterol, SHBG, and thyroxine-binding globulin concentrations. Low concentrations of these would support the clinical suspicion of androgenic PED abuse. The correct option is to screen for urinary metabolites of testosterone and testosterone precursors and known androgenic steroids by mass spectrometry (Option D). This method is not widely available in commercial laboratories but is used by the World Anti-Doping Agency to detect androgenic PED use by elite athletes.",
+      "reference": "\"The patient has a discordance between his physical appearance (muscularity) and serum testosterone concentration, which is very low. Androgens suppress serum HDL cholesterol, SHBG, and thyroxine-binding globulin concentrations. Low concentrations of these would support the clinical suspicion of androgenic PED abuse. The correct option is to screen for urinary metabolites of testosterone and testosterone precursors and known androgenic steroids by mass spectrometry (Option D). This method is not widely available in commercial laboratories but is used by the World Anti-Doping Agency to detect androgenic PED use by elite athletes.\"",
+      "id": "e21-35-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Androgenic PED Abuse Consequences",
+      "question": "Why do serum gonadotropins become suppressed in men who abuse androgenic PEDs?",
+      "answer": "Because the abuse of androgenic performance-enhancing drugs (PEDs) can lead to a suppression of serum gonadotropins, which are hormones that stimulate the production of testosterone by the testes. This suppression occurs as a result of the body's response to the elevated levels of endogenous androgens from the PEDs, mimicking the effects of prolonged anabolic steroid use.",
+      "keyPoints": [
+        "Androgenic PED abuse can lead to suppressed serum gonadotropins",
+        "This suppression is due to the body's hormonal feedback mechanism in response to high levels of androgens"
+      ],
+      "reference": "MAIN CONCLUSIONS: \"The proven health consequences include infertility, acne, and erythrocytosis in men. The other potential adverse effects include increased cardiovascular disease, hepatopathy (with oral alkylated androgens), neuropsychopathology, and ruptured upper-extremity tendons. The common clinical presentations of androgenic PED abuse are male infertility and requests for testosterone prescriptions to treat low serum testosterone. Serum gonadotropins are suppressed, and seminal fluid analyses show azoospermia or very low sperm concentrations. Recovery of gonadal axis function occurs spontaneously after discontinuation of androgenic PEDs.\"",
+      "id": "e21-35-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step",
+      "question": "How can serum gonadotropins be used as a diagnostic tool in patients suspected of abusing androgenic PEDs?",
+      "answer": "Serum gonadotropin levels, specifically follicle-stimulating hormone (FSH) and luteinizing hormone (LH), are suppressed in men who abuse androgenic PEDs. By measuring these hormones, clinicians can diagnose the suppression of the gonadal axis caused by the abuse of androgens. This diagnostic step is crucial for identifying patients at risk for infertility and other adverse effects associated with androgenic PED use.",
+      "keyPoints": [
+        "Serum gonadotropin levels are suppressed in men who abuse androgenic PEDs.",
+        "Measurement of FSH and LH can diagnose the suppression of the gonadal axis."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"Androgenic PEDs are used almost exclusively by men. The proven health consequences include infertility, acne, and erythrocytosis in men. The other potential adverse effects include increased cardiovascular disease, hepatopathy (with oral alkylated androgens), neuropsychopathology, and ruptured upper-extremity tendons. The common clinical presentations of androgenic PED abuse are male infertility and requests for testosterone prescriptions to treat low serum testosterone. Serum gonadotropins are suppressed, and seminal fluid analyses show azoospermia or very low sperm concentrations. Recovery of gonadal axis function occurs spontaneously after discontinuation of androgenic PEDs.\"",
+      "id": "e21-35-how1"
+    }
+  ]
 }

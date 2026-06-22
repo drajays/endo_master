@@ -1,22 +1,51 @@
 {
   "id": "e21-25",
-  "type": "mcq",
-  "subtopic": "Functioning gonadotroph pituitary adenomas presenting with OHSS in premenopausal women",
-  "question": "A 30-year-old woman presents with irregular menstrual cycles and multiple ovarian cysts on ultrasound. Laboratory tests reveal elevated FSH levels, low LH levels, and high estradiol levels. What is the most likely diagnosis?",
-  "options": [
-    "<Option A> Polycystic ovary syndrome (PCOS)",
-    "<Option B> Ovarian hyperstimulation syndrome (OHSS) related to a functioning gonadotroph pituitary adenoma",
-    "<Option C> McCune-Albright syndrome",
-    "<Option D> Ovarian granulosa cell tumor"
-  ],
-  "correctOption": 1,
-  "explanation": "The patient's presentation with irregular menstrual cycles, multiple ovarian cysts, and elevated FSH levels while having low LH levels is consistent with a functioning gonadotroph pituitary adenoma causing OHSS. Polycystic ovary syndrome typically presents with smaller follicles and different hormonal profiles.",
-  "reference": "MAIN CONCLUSIONS: \"Very rarely these gonadotroph adenomas are clinically functioning, and the hypersecretion of gonadotropins are responsible for stimulation of the gonads, particularly in women who may develop OHSS. The first case was described in 1995.\"",
   "volume": 2021,
   "chapterNo": "25",
   "title": "Treatment of Functioning Gonadotroph Pituitary Adenomas",
   "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
   "authors": "ESAP Committee",
   "sourceFile": "williams_2024_chapters/endo2021_chapter_25_Treatment_of_Functioning_Gonadotroph_Pituitary_Adenomas.md",
-  "items": []
+  "items": [
+    {
+      "subtopic": "Pituitary Adenoma and Hormonal Imbalance",
+      "question": "What is the most likely diagnosis for this patient given her symptoms of severe abdominal and pelvic pain with multiple ovarian cysts?",
+      "options": [
+        "Polycystic ovary syndrome (PCOS)",
+        "Ovarian Hyperstimulation Syndrome (OHSS) related to an FSH-secreting adenoma",
+        "McCune-Albright syndrome",
+        "Ovarian granulosa-cell tumor"
+      ],
+      "correctOption": 1,
+      "explanation": "The patient presents with multiple ovarian cysts and very high estradiol levels along with low testosterone levels, which are characteristic of Ovarian Hyperstimulation Syndrome (OHSS). OHSS can occur spontaneously in patients undergoing assisted reproductive procedures or as a complication of hormonal therapy. The presence of an FSH-secreting adenoma is suggested by the elevated FSH levels and suppressed LH levels despite the high estradiol levels, which are typical for this condition. Polycystic ovary syndrome (PCOS) typically presents with smaller ovarian cysts and different hormone profiles. McCune-Albright syndrome usually involves precocious puberty and other systemic manifestations such as café-au-lait spots or fibrous dysplasia. Ovarian granulosa-cell tumors are often associated with menopause, not premenopausal patients like this one.",
+      "reference": "\"OHSS is a well-known complication of assisted reproductive procedures, particularly with gonadotropin stimulation, but spontaneous OHSS is a very unusual occurrence and its presence suggests the diagnosis of an FSH-secreting adenoma (Answer B), particularly when FSH levels are increased.\"",
+      "id": "e21-25-q1",
+      "type": "mcq"
+    },
+    {
+      "type": "why",
+      "subtopic": "Gonadotroph Adenomas Functioning in Women of Reproductive Age",
+      "question": "Why do gonadotroph adenomas in women of reproductive age cause spontaneous ovarian hyperstimulation syndrome (OHSS) with multiple large ovarian cysts?",
+      "answer": "Because these adenomas preferentially secrete follicle-stimulating hormone (FSH), leading to an overproduction of FSH, which can induce OHSS characterized by the development of multiple large ovarian cysts.",
+      "keyPoints": [
+        "Gonadotroph adenomas in women of reproductive age predominantly secrete FSH.",
+        "Overproduction of FSH leads to ovarian hyperstimulation syndrome (OHSS)."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"More than 80% of clinically nonfunctioning pituitary adenomas are gonadotroph adenomas. Very rarely, gonadotroph adenomas may be clinically functioning. They preferentially secrete FSH and are thus associated with unusual clinical pictures. In women of reproductive age, such functioning adenomas may induce spontaneous ovarian hyperstimulation syndrome (OHSS) with multiple large ovarian cysts, generally discovered on pelvic ultrasonography performed for menstrual disturbances or abdominal or pelvic pain.\"",
+      "id": "e21-25-why1"
+    },
+    {
+      "type": "how",
+      "subtopic": "diagnostic step",
+      "question": "How can serum FSH levels help in diagnosing clinically functioning gonadotroph adenomas associated with ovarian hyperstimulation syndrome (OHSS)?",
+      "answer": "Serum FSH levels are important for diagnosing clinically functioning gonadotroph adenomas associated with OHSS because they often show increased levels, even if within the normal range. This is in contrast to polycystic ovary syndrome where LH levels are typically low and estradiol levels are high or very high. The combination of elevated FSH levels and low LH levels can suggest a gonadotroph adenoma causing OHSS.",
+      "keyPoints": [
+        "Clinically functioning pituitary adenomas, especially gonadotroph adenomas, may cause OHSS in women by overproducing FSH.",
+        "In cases of OHSS due to clinically functioning pituitary adenomas, serum FSH levels are often increased but can be within the normal range.",
+        "LH levels are invariably low in such cases, distinguishing them from polycystic ovary syndrome (PCOS)."
+      ],
+      "reference": "MAIN CONCLUSIONS: \"More than 80% of clinically nonfunctioning pituitary adenomas are gonadotroph adenomas. Very rarely, gonadotroph adenomas may be clinically functioning. They preferentially secrete FSH and are thus associated with unusual clinical pictures. In women of reproductive age, such functioning adenomas may induce spontaneous ovarian hyperstimulation syndrome (OHSS) with multiple large ovarian cysts, generally discovered on pelvic ultrasonography performed for menstrual disturbances or abdominal or pelvic pain. In affected men, macroorchidism has been described, while children may present with precocious puberty. Mass effects related to the pituitary adenoma may also occur.\"",
+      "id": "e21-25-how1"
+    }
+  ]
 }

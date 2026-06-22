@@ -1,0 +1,26 @@
+{
+  "id": "e21-43",
+  "volume": 2021,
+  "chapterNo": "43",
+  "title": "The EndocrinologyPsychiatry InterfaceHow Do We Help Each Other",
+  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+  "authors": "ESAP Committee",
+  "sourceFile": "williams_2024_chapters/endo2021_chapter_43_The_EndocrinologyPsychiatry_InterfaceHow_Do_We_Help_Each_Other.md",
+  "items": [
+    {
+      "type": "mcq",
+      "subtopic": "Bone Loss Management in Patients with Severe Pemphigus Vulgaris",
+      "question": "For a 38-year-old woman with severe pemphigus vulgaris, which treatment is most appropriate for managing bone loss?",
+      "options": [
+        "Continue calcium, 1200 mg daily, and vitamin D₃, 800 IU daily",
+        "Start alendronate",
+        "Start calcitonin",
+        "Start teriparatide"
+      ],
+      "correctOption": 0,
+      "explanation": "The patient is at low risk for fracture due to her young age and current BMD scores. The dermatologist's plan includes tapering prednisone, which should reduce the risk of bone loss over time. Therefore, continuing calcium and vitamin D intake is recommended.",
+      "reference": "MAIN CONCLUSIONS: 'Since this patient is younger than 40 years, has not had any fractures, and does not have a Z-score less than -3, she is at low risk for fracture and therefore should be counseled on adequate calcium and vitamin D intake (Answer A) and appropriate lifestyle modifications. Should a repeat DXA scan in 1 year demonstrate greater than 10% bone loss while she is taking prednisone exceeding 7.5 mg daily, it would be appropriate to consider adding pharmacologic therapy at that time.'",
+      "id": "e21-43-q1"
+    }
+  ]
+}

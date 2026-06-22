@@ -53,6 +53,12 @@ def extract_key_sections(md_text):
         
     if cv_match:
         case_vignettes = cv_match.group(1).strip()
+        
+        # Clean up cases 3/4 if they exist to keep the context compact
+        for marker in ["##### Case 3", "## Case 3", "### Case 3", "Case 3", "##### Case 4", "## Case 4", "### Case 4", "Case 4"]:
+            if marker in case_vignettes:
+                case_vignettes = case_vignettes.split(marker)[0].strip()
+                
         # Clean up references from case vignettes if present
         for marker in ["## References", "##### References", "## REFERENCES", "##### REFERENCES", "## Reference", "##### Reference", "## REFERENCE", "##### REFERENCE"]:
             if marker in case_vignettes:
@@ -60,11 +66,9 @@ def extract_key_sections(md_text):
                 
     return title, main_conclusions, case_vignettes
 
-def query_ollama(prompt, input_text):
+def query_ollama(prompt, text_content):
     url = "http://localhost:11434/api/generate"
-    
-    full_prompt = f"{prompt}\n\nHere is the chapter text (excerpt or full):\n{input_text}"
-    
+    full_prompt = f"{prompt}\n\nHere is the textbook content:\n{text_content}"
     data = {
         "model": "qwen2.5:3b",
         "prompt": full_prompt,
@@ -72,11 +76,10 @@ def query_ollama(prompt, input_text):
         "format": "json",
         "options": {
             "temperature": 0.2,
-            "num_ctx": 8192
+            "num_ctx": 8192,
+            "num_predict": 2048
         }
     }
-    
-    # 3 attempts with 90s timeout
     for attempt in range(3):
         try:
             req = urllib.request.Request(
@@ -86,81 +89,67 @@ def query_ollama(prompt, input_text):
             )
             with urllib.request.urlopen(req, timeout=90) as response:
                 res = json.loads(response.read().decode('utf-8'))
-                raw_response = res['response'].strip()
-                # Parse to ensure it is valid JSON
-                return json.loads(raw_response)
+                return json.loads(res['response'].strip())
         except Exception as e:
             print(f"  Attempt {attempt+1} failed: {e}")
             time.sleep(5)
     return None
 
-def make_prompt(ch_num, title, filename):
-    prompt = f"""You are an expert endocrinologist and clinical study aid developer. 
-Your task is to convert the raw textbook chapter text into a structured study Q-Bank JSON file.
+mcq_prompt = """You are an expert endocrinologist and clinical study aid developer. 
+Your task is to generate a single clinical multiple-choice question (MCQ) based on the case vignette and question in the text.
 
-You must output exactly:
-- 1 MCQ item (type: "mcq", based on the patient case/vignette)
-- 2 Why or How items (type: "why" or "how", based on the clinical explanations or mechanisms)
-Total items in the "items" array: 3.
+Output format:
+{
+  "subtopic": "<Topic category>",
+  "question": "<The case vignette stem ending with a question>",
+  "options": [
+    "<Option A>",
+    "<Option B>",
+    "<Option C>",
+    "<Option D>"
+  ],
+  "correctOption": <0-indexed integer 0-3 representing the correct option>,
+  "explanation": "<Detailed clinical explanation of why the correct option is right and others are wrong>",
+  "reference": "<VERBATIM double-quoted quote from the text prefixed by the heading title (e.g. ANSWER: \\"quote\\")>"
+}
 
-Target JSON format:
-{{
-  "id": "e21-{ch_num:02d}",
-  "volume": 2021,
-  "chapterNo": "{ch_num}",
-  "title": "{title}",
-  "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
-  "authors": "ESAP Committee",
-  "sourceFile": "williams_2024_chapters/{filename}",
-  "items": [
-    {{
-      "id": "e21-{ch_num:02d}-q1",
-      "type": "mcq",
-      "subtopic": "<Subtopic>",
-      "question": "<Vignette stem ending in a question>",
-      "options": [
-        "<Option A>",
-        "<Option B>",
-        "<Option C>",
-        "<Option D>"
-      ],
-      "correctOption": <0-indexed integer 0-3 representing correct option>,
-      "explanation": "<High-quality medical explanation>",
-      "reference": "<VERBATIM QUOTE FROM TEXT PREFIXED BY HEADING>"
-    }},
-    {{
-      "id": "e21-{ch_num:02d}-why1",
-      "type": "why",
-      "subtopic": "<Subtopic>",
-      "question": "Why ...?",
-      "answer": "Because ...",
-      "keyPoints": [
-        "<Key Point 1>",
-        "<Key Point 2>"
-      ],
-      "reference": "<VERBATIM QUOTE FROM TEXT PREFIXED BY HEADING>"
-    }},
-    {{
-      "id": "e21-{ch_num:02d}-how1",
-      "type": "how",
-      "subtopic": "<Subtopic>",
-      "question": "How ...?",
-      "answer": "<Explanation of how>",
-      "keyPoints": [
-        "<Key Point 1>",
-        "<Key Point 2>"
-      ],
-      "reference": "<VERBATIM QUOTE FROM TEXT PREFIXED BY HEADING>"
-    }}
-  ]
-}}
+Output a single JSON object only. Do not include extra text or markdown block formatting."""
 
-Rules for references:
-- The "reference" field must contain a verbatim double-quoted quote from the chapter text, prefixed by the heading title (e.g. MAIN CONCLUSIONS: "quote..."). Never invent quotes.
+why_prompt = """You are an expert endocrinologist and clinical study aid developer.
+Your task is to generate a single clinical "Why" question based on the provided Main Conclusions and clinical explanations.
 
-Format:
-- Output a single, clean JSON object ONLY. Do not include markdown code blocks, reasoning, thinking, or extra text. Start directly with '{{' and end with '}}':"""
-    return prompt
+Output format:
+{
+  "type": "why",
+  "subtopic": "<Topic category>",
+  "question": "Why ...?",
+  "answer": "Because ...",
+  "keyPoints": [
+    "<Key clinical point 1>",
+    "<Key clinical point 2>"
+  ],
+  "reference": "<VERBATIM double-quoted quote from the text prefixed by the heading title (e.g. MAIN CONCLUSIONS: \\"quote\\")>"
+}
+
+Output a single JSON object only. Do not include extra text or markdown block formatting."""
+
+how_prompt = """You are an expert endocrinologist and clinical study aid developer.
+Your task is to generate a single clinical "How" question based on the provided Main Conclusions and clinical explanations. This question should focus on a diagnostic step, mechanism of action, or monitoring approach.
+
+Output format:
+{
+  "type": "how",
+  "subtopic": "<Topic category>",
+  "question": "How ...?",
+  "answer": "<Explanation of how>",
+  "keyPoints": [
+    "<Key clinical point 1>",
+    "<Key clinical point 2>"
+  ],
+  "reference": "<VERBATIM double-quoted quote from the text prefixed by the heading title (e.g. MAIN CONCLUSIONS: \\"quote\\")>"
+}
+
+Output a single JSON object only. Do not include extra text or markdown block formatting."""
 
 modified_index = False
 
@@ -214,106 +203,90 @@ for idx, f in enumerate(endo_md_files):
     # Extract key sections
     title, mc, cv = extract_key_sections(md_text)
     
-    # Choose input text
-    if mc and cv:
-        input_text = f"CHAPTER TITLE: {title}\n\n{mc}\n\n{cv}"
-        print(f"  Extracted key sections: Main Conclusions ({len(mc)} chars) & Case Vignettes ({len(cv)} chars).")
-    else:
-        # Fallback: strip references section
-        cleaned_text = md_text
-        for marker in ["## References", "##### References", "## REFERENCES", "##### REFERENCES", "## Reference", "##### Reference", "## REFERENCE", "##### REFERENCE"]:
-            if marker in cleaned_text:
-                cleaned_text = cleaned_text.split(marker)[0]
-        input_text = cleaned_text
-        print("  Fallback: using full text (references stripped).")
-        
+    # Check what content to send
+    mc_content = mc if mc else md_text
+    cv_content = cv if cv else md_text
+    
     ch_idx = get_index_chapter(ch_num)
     title = ch_idx['title'] if ch_idx else title
     
-    prompt = make_prompt(ch_num, title, f)
+    print("  Generating MCQ...")
+    mcq_start = time.time()
+    mcq_item = query_ollama(mcq_prompt, cv_content)
     
-    start_time = time.time()
-    result_json = query_ollama(prompt, input_text)
+    print("  Generating Why item...")
+    why_start = time.time()
+    why_item = query_ollama(why_prompt, mc_content)
     
-    if result_json:
+    print("  Generating How item...")
+    how_start = time.time()
+    how_item = query_ollama(how_prompt, mc_content)
+    
+    # Build final combined JSON
+    result_json = {
+        "id": f"e21-{ch_num:02d}",
+        "volume": 2021,
+        "chapterNo": str(ch_num),
+        "title": title,
+        "section": "Endocrine Self-Assessment Program 2021 (Endo 2021)",
+        "authors": "ESAP Committee",
+        "sourceFile": f"williams_2024_chapters/{f}",
+        "items": []
+    }
+    
+    why_how_success = 0
+    
+    if mcq_item:
+        mcq_item["id"] = f"e21-{ch_num:02d}-q1"
+        mcq_item["type"] = "mcq"
+        # Validate options list
+        opts = mcq_item.get("options", [])
+        if not isinstance(opts, list) or len(opts) < 4:
+            mcq_item["options"] = opts + ["Option B", "Option C", "Option D"][:4-len(opts)]
         try:
-            # Overwrite metadata to ensure correctness
-            result_json['id'] = f"e21-{ch_num:02d}"
-            result_json['volume'] = 2021
-            result_json['chapterNo'] = str(ch_num)
-            result_json['title'] = title
-            result_json['section'] = "Endocrine Self-Assessment Program 2021 (Endo 2021)"
-            result_json['authors'] = "ESAP Committee"
-            result_json['sourceFile'] = f"williams_2024_chapters/{f}"
+            mcq_item["correctOption"] = int(mcq_item.get("correctOption", 0))
+        except:
+            mcq_item["correctOption"] = 0
+        result_json["items"].append(mcq_item)
+        
+    if why_item:
+        why_item["id"] = f"e21-{ch_num:02d}-why1"
+        why_item["type"] = "why"
+        if "keyPoints" not in why_item:
+            why_item["keyPoints"] = ["Key Point 1", "Key Point 2"]
+        result_json["items"].append(why_item)
+        why_how_success += 1
+        
+    if how_item:
+        how_item["id"] = f"e21-{ch_num:02d}-how1"
+        how_item["type"] = "how"
+        if "keyPoints" not in how_item:
+            how_item["keyPoints"] = ["Key Point 1", "Key Point 2"]
+        result_json["items"].append(how_item)
+        why_how_success += 1
+        
+    total_time = time.time() - mcq_start
+    
+    if len(result_json["items"]) >= 3:
+        # Save Qbank JSON file
+        with open(target_json_path, "w", encoding="utf-8") as out_f:
+            json.dump(result_json, out_f, indent=2, ensure_ascii=False)
             
-            # Reformat item IDs and validate
-            items = result_json.get('items', [])
+        print(f"  Successfully wrote {json_filename} in {total_time:.2f}s (items: {len(result_json['items'])}, why/how: {why_how_success})")
+        
+        # Register in index.json
+        if ch_idx:
+            ch_idx['file'] = json_filename
+            ch_idx['status'] = 'ready'
+            modified_index = True
             
-            # Flatten any nested structures
-            flat_items = []
-            def extract_items_recursive(it_list):
-                for item in it_list:
-                    nested = item.pop("items", None)
-                    flat_items.append(item)
-                    if isinstance(nested, list):
-                        extract_items_recursive(nested)
-            
-            extract_items_recursive(items)
-            
-            mcqs = 0
-            why_how = 0
-            final_items = []
-            
-            for it_idx, item in enumerate(flat_items):
-                it_type = item.get('type')
-                if not it_type:
-                    continue
-                if it_type == 'mcq':
-                    item['id'] = f"e21-{ch_num:02d}-q{mcqs+1}"
-                    mcqs += 1
-                    options = item.get("options", [])
-                    if not isinstance(options, list) or len(options) < 4:
-                        item["options"] = options + ["Option B", "Option C", "Option D"][:4-len(options)]
-                    try:
-                        item["correctOption"] = int(item.get("correctOption", 0))
-                    except:
-                        item["correctOption"] = 0
-                elif it_type in ['why', 'how']:
-                    item['id'] = f"e21-{ch_num:02d}-{it_type}{why_how+1}"
-                    why_how += 1
-                    if "keyPoints" not in item:
-                        item["keyPoints"] = ["Key Point 1", "Key Point 2"]
-                else:
-                    item['type'] = 'why'
-                    item['id'] = f"e21-{ch_num:02d}-why{why_how+1}"
-                    why_how += 1
-                
-                final_items.append(item)
-            
-            result_json['items'] = final_items
-            
-            # Save Qbank JSON file
-            with open(target_json_path, "w", encoding="utf-8") as out_f:
-                json.dump(result_json, out_f, indent=2, ensure_ascii=False)
-                
-            print(f"  Successfully wrote {json_filename} in {time.time() - start_time:.2f}s (items: {len(final_items)}, why/how: {why_how})")
-            
-            # Register in index.json
-            if ch_idx:
-                ch_idx['file'] = json_filename
-                ch_idx['status'] = 'ready'
-                modified_index = True
-                
-            # Write index.json progress immediately
-            if modified_index:
-                with open(index_path, "w", encoding="utf-8") as ind_f:
-                    json.dump(index_data, ind_f, indent=2, ensure_ascii=False)
-                modified_index = False
-                
-        except Exception as parse_e:
-            print(f"  Error post-processing output: {parse_e}")
+        # Write index.json progress immediately
+        if modified_index:
+            with open(index_path, "w", encoding="utf-8") as ind_f:
+                json.dump(index_data, ind_f, indent=2, ensure_ascii=False)
+            modified_index = False
     else:
-        print(f"  Failed to generate chapter {ch_num} from Ollama.")
+        print(f"  Failed to generate all 3 required items for Chapter {ch_num} (items generated: {len(result_json['items'])}).")
 
 # Write final index.json check
 if modified_index:
